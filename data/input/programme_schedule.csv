@@ -1,0 +1,682 @@
+schedule_entry_id,channel,scheduling_system,transmission_day,start_time,end_time,programme_title,genre,live_flag,live_sport_flag,made_for_children_flag,premiere_flag,episode_number,school_holiday_flag,day_type,lead_in_genre,forecast_under18_index,region_feed_code,playout_code
+SCH19093,Harbourlight One,Airtime Planner,Monday,06:00,09:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,62,RF-04,PLY-2907
+SCH56606,Harbourlight One,Airtime Planner,Monday,09:00,10:30,Morning Harbour,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,34,RF-02,PLY-6428
+SCH32014,Harbourlight One,Airtime Planner,Monday,10:30,11:30,This Home,Lifestyle,No,No,No,Yes,97,No,Weekday,Talk and magazine,24,RF-05,PLY-2526
+SCH52042,Harbourlight One,Airtime Planner,Monday,11:30,12:00,Harbour Kitchen,Lifestyle,No,No,No,No,64,No,Weekday,Lifestyle,26,RF-01,PLY-9445
+SCH83046,Harbourlight One,Airtime Planner,Monday,12:00,12:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Lifestyle,17,RF-04,PLY-6484
+SCH58409,Harbourlight One,Airtime Planner,Monday,12:30,13:30,The Lunchtime Table,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,22,RF-02,PLY-3387
+SCH27951,Harbourlight One,Airtime Planner,Monday,13:30,14:00,Harbour Kitchen,Lifestyle,No,No,No,Yes,160,No,Weekday,Talk and magazine,32,RF-06,PLY-1545
+SCH19751,Harbourlight One,Airtime Planner,Monday,14:00,15:00,Loose Talk,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Lifestyle,26,RF-01,PLY-3246
+SCH11536,Harbourlight One,Airtime Planner,Monday,15:00,16:00,Brainbox,Quiz and game show,No,No,No,No,15,No,Weekday,Talk and magazine,63,RF-06,PLY-4821
+SCH94795,Harbourlight One,Airtime Planner,Monday,16:00,16:30,Pass the Clue,Quiz and game show,No,No,No,No,145,No,Weekday,Quiz and game show,64,RF-05,PLY-4339
+SCH31154,Harbourlight One,Airtime Planner,Monday,16:30,17:00,Pass the Clue,Quiz and game show,No,No,No,No,103,No,Weekday,Quiz and game show,61,RF-07,PLY-3387
+SCH19467,Harbourlight One,Airtime Planner,Monday,17:00,18:00,Last Answer Standing,Quiz and game show,No,No,No,Yes,130,No,Weekday,Quiz and game show,89,RF-07,PLY-3968
+SCH27527,Harbourlight One,Airtime Planner,Monday,18:00,18:30,Harbourlight News at Six,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,47,RF-02,PLY-3766
+SCH63362,Harbourlight One,Airtime Planner,Monday,18:30,19:00,Regional Tonight,News,Yes,No,No,Yes,,No,Weekday,News,41,RF-02,PLY-1026
+SCH65722,Harbourlight One,Airtime Planner,Monday,19:00,19:30,Millbrook,Soap,No,No,No,Yes,429,No,Weekday,News,69,RF-01,PLY-9190
+SCH14769,Harbourlight One,Airtime Planner,Monday,19:30,20:00,Harbour Street,Soap,No,No,No,Yes,375,No,Weekday,Soap,78,RF-06,PLY-7237
+SCH72473,Harbourlight One,Airtime Planner,Monday,20:00,20:30,Flatmates,Comedy,No,No,No,No,164,No,Weekday,Soap,75,RF-08,PLY-4125
+SCH18856,Harbourlight One,Airtime Planner,Monday,20:30,21:00,Tonight Investigates,Current affairs,No,No,No,Yes,,No,Weekday,Comedy,44,RF-08,PLY-1318
+SCH56673,Harbourlight One,Airtime Planner,Monday,21:00,22:00,Harbour Crime,Crime drama,No,No,No,Yes,53,No,Weekday,Current affairs,62,RF-06,PLY-2916
+SCH89048,Harbourlight One,Airtime Planner,Monday,22:00,22:30,Harbourlight News at Ten,News,Yes,No,No,Yes,,No,Weekday,Crime drama,27,RF-08,PLY-9272
+SCH26610,Harbourlight One,Airtime Planner,Monday,22:30,23:00,Flatmates,Comedy,No,No,No,No,176,No,Weekday,News,64,RF-04,PLY-8130
+SCH19317,Harbourlight One,Airtime Planner,Monday,23:00,24:00,Late Laughs,Comedy,No,No,No,No,30,No,Weekday,Comedy,31,RF-02,PLY-5491
+SCH89304,Harbourlight One,Airtime Planner,Monday,24:00,25:00,Late Laughs,Comedy,No,No,No,Yes,94,No,Weekday,Comedy,47,RF-04,PLY-4953
+SCH78913,Harbourlight One,Airtime Planner,Monday,25:00,26:00,The Late Review,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Comedy,35,RF-06,PLY-9782
+SCH72934,Harbourlight One,Airtime Planner,Monday,26:00,28:30,Night Film,Film,No,No,No,No,,No,Weekday,Talk and magazine,34,RF-09,PLY-5104
+SCH31615,Harbourlight One,Airtime Planner,Monday,28:30,29:30,Night Quiz,Quiz and game show,Yes,No,No,Yes,515,No,Weekday,Film,18,RF-01,PLY-7078
+SCH12686,Harbourlight One,Airtime Planner,Monday,29:30,30:00,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,22,RF-09,PLY-8081
+SCH15308,Harbourlight Sport,TXLine,Monday,06:00,09:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,62,RF-01,PLY-4761
+SCH18093,Harbourlight Sport,TXLine,Monday,09:00,10:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,34,RF-09,PLY-7898
+SCH25285,Harbourlight Sport,TXLine,Monday,10:00,11:00,Motor Sport Weekly,Sport,No,No,No,Yes,,No,Weekday,Sport,45,RF-06,PLY-5097
+SCH80808,Harbourlight Sport,TXLine,Monday,11:00,12:00,Golf Round-Up,Sport,No,No,No,No,,No,Weekday,Sport,22,RF-02,PLY-3420
+SCH11786,Harbourlight Sport,TXLine,Monday,12:00,13:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Sport,32,RF-04,PLY-1791
+SCH80590,Harbourlight Sport,TXLine,Monday,13:00,17:00,Snooker Live,Sport,Yes,Yes,No,Yes,,No,Weekday,Sport,25,RF-05,PLY-8794
+SCH40655,Harbourlight Sport,TXLine,Monday,17:00,18:00,Transfer Talk,Football,Yes,No,No,Yes,,No,Weekday,Sport,136,RF-04,PLY-9505
+SCH93405,Harbourlight Sport,TXLine,Monday,18:00,19:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Football,81,RF-09,PLY-3358
+SCH66786,Harbourlight Sport,TXLine,Monday,19:00,19:30,Extreme Sports,Sport,No,No,No,Yes,,No,Weekday,Sport,109,RF-07,PLY-5523
+SCH89090,Harbourlight Sport,TXLine,Monday,19:30,22:00,Championship Football Live,Football,Yes,Yes,No,Yes,,No,Weekday,Sport,78,RF-01,PLY-6308
+SCH46690,Harbourlight Sport,TXLine,Monday,22:00,23:00,Football Tonight,Football,No,No,No,Yes,,No,Weekday,Football,108,RF-06,PLY-3897
+SCH87024,Harbourlight Sport,TXLine,Monday,23:00,24:00,Motor Sport Weekly,Sport,No,No,No,No,,No,Weekday,Football,63,RF-04,PLY-7129
+SCH79571,Harbourlight Sport,TXLine,Monday,24:00,25:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,73,RF-04,PLY-2595
+SCH79926,Harbourlight Sport,TXLine,Monday,25:00,26:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,71,RF-09,PLY-3115
+SCH81869,Harbourlight Sport,TXLine,Monday,26:00,28:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,44,RF-03,PLY-8722
+SCH45561,Harbourlight Sport,TXLine,Monday,28:00,29:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,68,RF-03,PLY-4761
+SCH54460,Harbourlight Sport,TXLine,Monday,29:00,30:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,42,RF-02,PLY-8256
+SCH56628,Harbourlight Drama,SlotMaster,Monday,06:00,06:30,Sitcom Classics,Comedy,No,No,No,No,42,No,Weekday,Drama,73,RF-09,PLY-3766
+SCH88503,Harbourlight Drama,SlotMaster,Monday,06:30,07:30,Ashworth Hall,Drama,No,No,No,No,31,No,Weekday,Comedy,46,RF-04,PLY-9782
+SCH84639,Harbourlight Drama,SlotMaster,Monday,07:30,08:30,Castle Hill,Drama,No,No,No,No,13,No,Weekday,Drama,62,RF-08,PLY-4091
+SCH14588,Harbourlight Drama,SlotMaster,Monday,08:30,09:00,Sitcom Classics,Comedy,No,No,No,No,53,No,Weekday,Drama,55,RF-06,PLY-6202
+SCH71278,Harbourlight Drama,SlotMaster,Monday,09:00,10:00,The Doctors' Wing,Drama,No,No,No,No,19,No,Weekday,Comedy,25,RF-06,PLY-7865
+SCH10887,Harbourlight Drama,SlotMaster,Monday,10:00,11:00,The Case Files,Crime drama,No,No,No,No,29,No,Weekday,Drama,26,RF-09,PLY-4760
+SCH54899,Harbourlight Drama,SlotMaster,Monday,11:00,12:00,Castle Hill,Drama,No,No,No,No,45,No,Weekday,Crime drama,28,RF-01,PLY-8150
+SCH11028,Harbourlight Drama,SlotMaster,Monday,12:00,14:00,Murder at Marsh End,Crime drama,No,No,No,No,13,No,Weekday,Drama,28,RF-06,PLY-9464
+SCH35040,Harbourlight Drama,SlotMaster,Monday,14:00,15:00,Ashworth Hall,Drama,No,No,No,No,3,No,Weekday,Crime drama,19,RF-03,PLY-9600
+SCH82147,Harbourlight Drama,SlotMaster,Monday,15:00,16:00,Castle Hill,Drama,No,No,No,No,45,No,Weekday,Drama,44,RF-03,PLY-2951
+SCH18373,Harbourlight Drama,SlotMaster,Monday,16:00,17:00,The Case Files,Crime drama,No,No,No,No,1,No,Weekday,Drama,42,RF-04,PLY-7768
+SCH89295,Harbourlight Drama,SlotMaster,Monday,17:00,18:00,Blackwater Bay,Drama,No,No,No,No,5,No,Weekday,Crime drama,51,RF-09,PLY-3107
+SCH86372,Harbourlight Drama,SlotMaster,Monday,18:00,19:00,Westfield High,Drama,No,No,No,No,94,No,Weekday,Drama,182,RF-02,PLY-7405
+SCH95322,Harbourlight Drama,SlotMaster,Monday,19:00,20:00,The Doctors' Wing,Drama,No,No,No,No,30,No,Weekday,Drama,55,RF-09,PLY-1420
+SCH73354,Harbourlight Drama,SlotMaster,Monday,20:00,21:00,Coastal Mysteries,Crime drama,No,No,No,Yes,49,No,Weekday,Drama,47,RF-09,PLY-8772
+SCH21125,Harbourlight Drama,SlotMaster,Monday,21:00,23:00,Murder at Marsh End,Crime drama,No,No,No,No,26,No,Weekday,Crime drama,40,RF-08,PLY-6332
+SCH44283,Harbourlight Drama,SlotMaster,Monday,23:00,25:00,Late Film,Film,No,No,No,No,,No,Weekday,Crime drama,22,RF-03,PLY-4135
+SCH34782,Harbourlight Drama,SlotMaster,Monday,25:00,25:30,Drama Shorts,Drama,No,No,No,No,18,No,Weekday,Film,39,RF-04,PLY-4426
+SCH44186,Harbourlight Drama,SlotMaster,Monday,25:30,26:00,Sitcom Classics,Comedy,No,No,No,No,40,No,Weekday,Drama,61,RF-01,PLY-3594
+SCH61191,Harbourlight Drama,SlotMaster,Monday,26:00,27:00,Nightshift,Drama,No,No,No,No,17,No,Weekday,Comedy,37,RF-02,PLY-6534
+SCH62529,Harbourlight Drama,SlotMaster,Monday,27:00,29:30,Late Film,Film,No,No,No,No,,No,Weekday,Drama,29,RF-09,PLY-3052
+SCH63131,Harbourlight Drama,SlotMaster,Monday,29:30,30:00,Sitcom Classics,Comedy,No,No,No,No,55,No,Weekday,Film,44,RF-04,PLY-3248
+SCH57122,Harbourlight Life,Planit,Monday,06:00,06:30,Story Boat,Children's,No,No,Yes,Yes,112,No,Weekday,Quiz and game show,382,RF-06,PLY-8838
+SCH25355,Harbourlight Life,Planit,Monday,06:30,07:00,Doodle Den,Children's,No,No,Yes,No,49,No,Weekday,Children's,429,RF-03,PLY-5317
+SCH78870,Harbourlight Life,Planit,Monday,07:00,07:30,Story Boat,Children's,No,No,Yes,No,43,No,Weekday,Children's,382,RF-02,PLY-7924
+SCH97253,Harbourlight Life,Planit,Monday,07:30,08:00,Treetop Tales,Children's,No,No,Yes,No,38,No,Weekday,Children's,372,RF-04,PLY-6059
+SCH28005,Harbourlight Life,Planit,Monday,08:00,08:30,Junior Newsdesk,Children's,Yes,No,Yes,Yes,,No,Weekday,Children's,140,RF-04,PLY-4730
+SCH65704,Harbourlight Life,Planit,Monday,08:30,09:30,Garden Rescue Squad,Lifestyle,No,No,No,No,98,No,Weekday,Children's,61,RF-01,PLY-4821
+SCH96180,Harbourlight Life,Planit,Monday,09:30,10:00,Home Kitchen,Lifestyle,No,No,No,Yes,309,No,Weekday,Lifestyle,27,RF-03,PLY-3886
+SCH78193,Harbourlight Life,Planit,Monday,10:00,11:00,Dream Home Makeover,Lifestyle,No,No,No,No,77,No,Weekday,Lifestyle,33,RF-08,PLY-7369
+SCH66217,Harbourlight Life,Planit,Monday,11:00,11:30,Style Swap,Lifestyle,No,No,No,Yes,140,No,Weekday,Lifestyle,50,RF-06,PLY-7432
+SCH82285,Harbourlight Life,Planit,Monday,11:30,12:00,Home Kitchen,Lifestyle,No,No,No,No,36,No,Weekday,Lifestyle,24,RF-02,PLY-2835
+SCH73339,Harbourlight Life,Planit,Monday,12:00,12:30,Home Kitchen,Lifestyle,No,No,No,No,45,No,Weekday,Lifestyle,27,RF-03,PLY-3028
+SCH63427,Harbourlight Life,Planit,Monday,12:30,13:30,Airport Live,Documentary,No,No,No,Yes,146,No,Weekday,Lifestyle,35,RF-01,PLY-9272
+SCH38877,Harbourlight Life,Planit,Monday,13:30,14:30,Escape to the Coast,Lifestyle,No,No,No,Yes,144,No,Weekday,Documentary,28,RF-05,PLY-7118
+SCH40502,Harbourlight Life,Planit,Monday,14:30,15:30,Puzzle Hour,Quiz and game show,No,No,No,No,46,No,Weekday,Lifestyle,26,RF-07,PLY-2779
+SCH88719,Harbourlight Life,Planit,Monday,15:30,16:00,Doodle Den,Children's,No,No,Yes,No,102,No,Weekday,Quiz and game show,321,RF-08,PLY-7948
+SCH43809,Harbourlight Life,Planit,Monday,16:00,16:30,Wild Wonders,Children's,No,No,Yes,No,41,No,Weekday,Children's,356,RF-05,PLY-9969
+SCH93658,Harbourlight Life,Planit,Monday,16:30,17:00,Robo Rangers,Children's,No,No,Yes,No,56,No,Weekday,Children's,303,RF-03,PLY-4180
+SCH86668,Harbourlight Life,Planit,Monday,17:00,17:30,The Hendersons,Animation,No,No,No,No,6,No,Weekday,Children's,202,RF-08,PLY-7176
+SCH65223,Harbourlight Life,Planit,Monday,17:30,18:00,Space Diner,Animation,No,No,No,No,27,No,Weekday,Animation,269,RF-05,PLY-7176
+SCH45925,Harbourlight Life,Planit,Monday,18:00,18:30,Crazy Critters,Animation,No,No,No,No,75,No,Weekday,Animation,321,RF-05,PLY-4438
+SCH16642,Harbourlight Life,Planit,Monday,18:30,19:30,Emergency Vets,Documentary,No,No,No,Yes,164,No,Weekday,Animation,116,RF-09,PLY-2471
+SCH76071,Harbourlight Life,Planit,Monday,19:30,20:00,Style Swap,Lifestyle,No,No,No,No,3,No,Weekday,Documentary,96,RF-04,PLY-1218
+SCH40414,Harbourlight Life,Planit,Monday,20:00,21:00,Bake Off Stars,Lifestyle,No,No,No,No,101,No,Weekday,Lifestyle,103,RF-01,PLY-9969
+SCH92579,Harbourlight Life,Planit,Monday,21:00,22:00,Teen Fashion Wars,Reality,No,No,No,Yes,171,No,Weekday,Lifestyle,184,RF-04,PLY-6196
+SCH97987,Harbourlight Life,Planit,Monday,22:00,23:00,Blind Date Club,Reality,No,No,No,Yes,320,No,Weekday,Reality,100,RF-02,PLY-8221
+SCH34415,Harbourlight Life,Planit,Monday,23:00,24:00,Holiday Reps,Reality,No,No,No,Yes,325,No,Weekday,Reality,75,RF-04,PLY-4844
+SCH95152,Harbourlight Life,Planit,Monday,24:00,25:00,Escape to the Coast,Lifestyle,No,No,No,No,109,No,Weekday,Reality,24,RF-05,PLY-6415
+SCH74116,Harbourlight Life,Planit,Monday,25:00,25:30,Home Kitchen,Lifestyle,No,No,No,No,220,No,Weekday,Lifestyle,35,RF-08,PLY-3589
+SCH15342,Harbourlight Life,Planit,Monday,25:30,26:30,Wild Britain,Documentary,No,No,No,No,128,No,Weekday,Lifestyle,71,RF-08,PLY-2549
+SCH89883,Harbourlight Life,Planit,Monday,26:30,27:30,Escape to the Coast,Lifestyle,No,No,No,No,35,No,Weekday,Documentary,26,RF-05,PLY-5394
+SCH81982,Harbourlight Life,Planit,Monday,27:30,28:30,Puzzle Hour,Quiz and game show,No,No,No,No,69,No,Weekday,Lifestyle,50,RF-06,PLY-7007
+SCH81434,Harbourlight Life,Planit,Monday,28:30,29:00,Night Kitchen,Lifestyle,No,No,No,No,13,No,Weekday,Quiz and game show,26,RF-08,PLY-8876
+SCH36123,Harbourlight Life,Planit,Monday,29:00,30:00,Escape to the Coast,Lifestyle,No,No,No,No,133,No,Weekday,Lifestyle,22,RF-09,PLY-5486
+SCH44452,Harbourlight One,Airtime Planner,Tuesday,06:00,09:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,64,RF-05,PLY-2234
+SCH96976,Harbourlight One,Airtime Planner,Tuesday,09:00,10:30,Morning Harbour,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,29,RF-01,PLY-6059
+SCH54612,Harbourlight One,Airtime Planner,Tuesday,10:30,11:00,Harbour Kitchen,Lifestyle,No,No,No,No,74,No,Weekday,Talk and magazine,29,RF-05,PLY-9838
+SCH25354,Harbourlight One,Airtime Planner,Tuesday,11:00,12:00,This Home,Lifestyle,No,No,No,Yes,98,No,Weekday,Lifestyle,30,RF-02,PLY-4953
+SCH10442,Harbourlight One,Airtime Planner,Tuesday,12:00,12:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Lifestyle,16,RF-02,PLY-9672
+SCH34579,Harbourlight One,Airtime Planner,Tuesday,12:30,13:30,The Lunchtime Table,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,23,RF-02,PLY-7962
+SCH35343,Harbourlight One,Airtime Planner,Tuesday,13:30,14:00,Harbour Kitchen,Lifestyle,No,No,No,No,80,No,Weekday,Talk and magazine,30,RF-01,PLY-1327
+SCH21964,Harbourlight One,Airtime Planner,Tuesday,14:00,14:30,Harbour Kitchen,Lifestyle,No,No,No,No,150,No,Weekday,Lifestyle,24,RF-08,PLY-3599
+SCH60700,Harbourlight One,Airtime Planner,Tuesday,14:30,15:00,Harbour Kitchen,Lifestyle,No,No,No,No,30,No,Weekday,Lifestyle,34,RF-09,PLY-7837
+SCH98003,Harbourlight One,Airtime Planner,Tuesday,15:00,16:00,Brainbox,Quiz and game show,No,No,No,No,16,No,Weekday,Lifestyle,71,RF-04,PLY-8990
+SCH93293,Harbourlight One,Airtime Planner,Tuesday,16:00,16:30,Pass the Clue,Quiz and game show,No,No,No,No,196,No,Weekday,Quiz and game show,71,RF-04,PLY-9771
+SCH80715,Harbourlight One,Airtime Planner,Tuesday,16:30,17:00,Flatmates,Comedy,No,No,No,Yes,191,No,Weekday,Quiz and game show,85,RF-02,PLY-9641
+SCH51492,Harbourlight One,Airtime Planner,Tuesday,17:00,18:00,Last Answer Standing,Quiz and game show,No,No,No,Yes,131,No,Weekday,Comedy,75,RF-07,PLY-6332
+SCH54679,Harbourlight One,Airtime Planner,Tuesday,18:00,18:30,Harbourlight News at Six,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,39,RF-09,PLY-7797
+SCH14205,Harbourlight One,Airtime Planner,Tuesday,18:30,19:00,Regional Tonight,News,Yes,No,No,Yes,,No,Weekday,News,45,RF-02,PLY-7129
+SCH35545,Harbourlight One,Airtime Planner,Tuesday,19:00,19:30,Millbrook,Soap,No,No,No,Yes,430,No,Weekday,News,64,RF-03,PLY-2150
+SCH94122,Harbourlight One,Airtime Planner,Tuesday,19:30,20:00,Harbour Street,Soap,No,No,No,Yes,376,No,Weekday,Soap,93,RF-06,PLY-3064
+SCH25578,Harbourlight One,Airtime Planner,Tuesday,20:00,20:30,Flatmates,Comedy,No,No,No,Yes,192,No,Weekday,Soap,110,RF-06,PLY-5775
+SCH68289,Harbourlight One,Airtime Planner,Tuesday,20:30,21:00,Tonight Investigates,Current affairs,No,No,No,Yes,,No,Weekday,Comedy,41,RF-08,PLY-1209
+SCH42324,Harbourlight One,Airtime Planner,Tuesday,21:00,22:00,The Quayside Murders,Crime drama,No,No,No,Yes,28,No,Weekday,Current affairs,38,RF-07,PLY-5262
+SCH35600,Harbourlight One,Airtime Planner,Tuesday,22:00,22:30,Harbourlight News at Ten,News,Yes,No,No,Yes,,No,Weekday,Crime drama,24,RF-09,PLY-9341
+SCH41384,Harbourlight One,Airtime Planner,Tuesday,22:30,23:30,Late Laughs,Comedy,No,No,No,No,78,No,Weekday,News,41,RF-07,PLY-6133
+SCH62979,Harbourlight One,Airtime Planner,Tuesday,23:30,24:00,Flatmates,Comedy,No,No,No,No,133,No,Weekday,Comedy,73,RF-06,PLY-2809
+SCH90871,Harbourlight One,Airtime Planner,Tuesday,24:00,26:00,Night Film,Film,No,No,No,No,,No,Weekday,Comedy,38,RF-07,PLY-6560
+SCH37953,Harbourlight One,Airtime Planner,Tuesday,26:00,27:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,516,No,Weekday,Film,20,RF-03,PLY-5238
+SCH15046,Harbourlight One,Airtime Planner,Tuesday,27:00,27:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,22,RF-06,PLY-8168
+SCH70167,Harbourlight One,Airtime Planner,Tuesday,27:30,30:00,Night Film,Film,No,No,No,No,,No,Weekday,News,40,RF-09,PLY-9969
+SCH18809,Harbourlight Sport,TXLine,Tuesday,06:00,09:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,68,RF-04,PLY-9341
+SCH89019,Harbourlight Sport,TXLine,Tuesday,09:00,10:00,Motor Sport Weekly,Sport,No,No,No,Yes,,No,Weekday,Sport,39,RF-03,PLY-5950
+SCH61209,Harbourlight Sport,TXLine,Tuesday,10:00,12:00,Classic Matches,Sport,No,No,No,No,,No,Weekday,Sport,28,RF-01,PLY-9640
+SCH53312,Harbourlight Sport,TXLine,Tuesday,12:00,13:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Sport,37,RF-07,PLY-3968
+SCH12871,Harbourlight Sport,TXLine,Tuesday,13:00,17:00,Snooker Live,Sport,Yes,Yes,No,Yes,,No,Weekday,Sport,21,RF-02,PLY-6415
+SCH31031,Harbourlight Sport,TXLine,Tuesday,17:00,18:00,Transfer Talk,Football,Yes,No,No,Yes,,No,Weekday,Sport,99,RF-08,PLY-3945
+SCH28793,Harbourlight Sport,TXLine,Tuesday,18:00,19:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Football,77,RF-05,PLY-3898
+SCH41971,Harbourlight Sport,TXLine,Tuesday,19:00,19:30,Extreme Sports,Sport,No,No,No,Yes,,No,Weekday,Sport,100,RF-04,PLY-7118
+SCH80265,Harbourlight Sport,TXLine,Tuesday,19:30,22:00,Championship Football Live,Football,Yes,Yes,No,Yes,,No,Weekday,Sport,103,RF-06,PLY-8458
+SCH12627,Harbourlight Sport,TXLine,Tuesday,22:00,23:00,Game On,Sport,No,No,No,Yes,,No,Weekday,Football,161,RF-03,PLY-5083
+SCH15719,Harbourlight Sport,TXLine,Tuesday,23:00,24:00,Fight Night Preview,Sport,No,No,No,Yes,,No,Weekday,Sport,53,RF-02,PLY-5292
+SCH19562,Harbourlight Sport,TXLine,Tuesday,24:00,26:00,Classic Matches,Sport,No,No,No,No,,No,Weekday,Sport,28,RF-03,PLY-5916
+SCH27801,Harbourlight Sport,TXLine,Tuesday,26:00,28:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,37,RF-06,PLY-2835
+SCH39666,Harbourlight Sport,TXLine,Tuesday,28:00,30:00,Classic Matches,Sport,No,No,No,No,,No,Weekday,Sport,40,RF-02,PLY-3836
+SCH30994,Harbourlight Drama,SlotMaster,Tuesday,06:00,07:00,Ashworth Hall,Drama,No,No,No,No,2,No,Weekday,Comedy,43,RF-08,PLY-1448
+SCH54226,Harbourlight Drama,SlotMaster,Tuesday,07:00,08:00,Ashworth Hall,Drama,No,No,No,No,19,No,Weekday,Drama,39,RF-08,PLY-6920
+SCH41735,Harbourlight Drama,SlotMaster,Tuesday,08:00,09:00,Ashworth Hall,Drama,No,No,No,No,25,No,Weekday,Drama,26,RF-09,PLY-3402
+SCH31497,Harbourlight Drama,SlotMaster,Tuesday,09:00,10:00,Castle Hill,Drama,No,No,No,No,37,No,Weekday,Drama,27,RF-07,PLY-3150
+SCH61859,Harbourlight Drama,SlotMaster,Tuesday,10:00,11:00,The Doctors' Wing,Drama,No,No,No,No,43,No,Weekday,Drama,24,RF-03,PLY-5292
+SCH65857,Harbourlight Drama,SlotMaster,Tuesday,11:00,12:00,Castle Hill,Drama,No,No,No,No,20,No,Weekday,Drama,22,RF-02,PLY-3184
+SCH16875,Harbourlight Drama,SlotMaster,Tuesday,12:00,14:00,Detective Rowe,Crime drama,No,No,No,No,12,No,Weekday,Drama,27,RF-01,PLY-9447
+SCH23163,Harbourlight Drama,SlotMaster,Tuesday,14:00,15:00,Ashworth Hall,Drama,No,No,No,No,34,No,Weekday,Crime drama,23,RF-08,PLY-3532
+SCH76344,Harbourlight Drama,SlotMaster,Tuesday,15:00,16:00,Castle Hill,Drama,No,No,No,No,15,No,Weekday,Drama,41,RF-04,PLY-2760
+SCH79282,Harbourlight Drama,SlotMaster,Tuesday,16:00,17:00,Ashworth Hall,Drama,No,No,No,No,10,No,Weekday,Drama,32,RF-03,PLY-1327
+SCH37692,Harbourlight Drama,SlotMaster,Tuesday,17:00,17:30,Sitcom Classics,Comedy,No,No,No,No,38,No,Weekday,Drama,82,RF-06,PLY-4776
+SCH31646,Harbourlight Drama,SlotMaster,Tuesday,17:30,18:00,Sixth Form,Drama,No,No,No,No,15,No,Weekday,Comedy,201,RF-08,PLY-5525
+SCH45321,Harbourlight Drama,SlotMaster,Tuesday,18:00,19:00,Blackwater Bay,Drama,No,No,No,No,3,No,Weekday,Drama,69,RF-09,PLY-4271
+SCH37970,Harbourlight Drama,SlotMaster,Tuesday,19:00,20:00,Coastal Mysteries,Crime drama,No,No,No,No,1,No,Weekday,Drama,40,RF-02,PLY-7014
+SCH11316,Harbourlight Drama,SlotMaster,Tuesday,20:00,21:00,The Doctors' Wing,Drama,No,No,No,No,15,No,Weekday,Crime drama,64,RF-06,PLY-6371
+SCH12330,Harbourlight Drama,SlotMaster,Tuesday,21:00,23:00,Detective Rowe,Crime drama,No,No,No,No,13,No,Weekday,Drama,43,RF-06,PLY-6069
+SCH31393,Harbourlight Drama,SlotMaster,Tuesday,23:00,25:00,Late Film,Film,No,No,No,No,,No,Weekday,Crime drama,27,RF-06,PLY-5950
+SCH94223,Harbourlight Drama,SlotMaster,Tuesday,25:00,27:30,Late Film,Film,No,No,No,No,,No,Weekday,Film,26,RF-06,PLY-9782
+SCH98352,Harbourlight Drama,SlotMaster,Tuesday,27:30,28:30,Coastal Mysteries,Crime drama,No,No,No,No,36,No,Weekday,Film,35,RF-03,PLY-6017
+SCH77555,Harbourlight Drama,SlotMaster,Tuesday,28:30,29:30,Nightshift,Drama,No,No,No,No,10,No,Weekday,Crime drama,37,RF-09,PLY-4135
+SCH12553,Harbourlight Drama,SlotMaster,Tuesday,29:30,30:00,Sitcom Classics,Comedy,No,No,No,No,30,No,Weekday,Drama,50,RF-09,PLY-3886
+SCH80641,Harbourlight Life,Planit,Tuesday,06:00,06:30,Doodle Den,Children's,No,No,Yes,No,31,No,Weekday,Lifestyle,363,RF-04,PLY-7379
+SCH72617,Harbourlight Life,Planit,Tuesday,06:30,07:00,Story Boat,Children's,No,No,Yes,No,70,No,Weekday,Children's,449,RF-09,PLY-5657
+SCH68779,Harbourlight Life,Planit,Tuesday,07:00,07:30,Treetop Tales,Children's,No,No,Yes,No,33,No,Weekday,Children's,520,RF-05,PLY-2779
+SCH47519,Harbourlight Life,Planit,Tuesday,07:30,08:00,Tiny Builders,Children's,No,No,Yes,No,39,No,Weekday,Children's,389,RF-02,PLY-6898
+SCH63447,Harbourlight Life,Planit,Tuesday,08:00,08:30,Junior Newsdesk,Children's,Yes,No,Yes,Yes,,No,Weekday,Children's,140,RF-09,PLY-1472
+SCH37381,Harbourlight Life,Planit,Tuesday,08:30,09:30,Garden Rescue Squad,Lifestyle,No,No,No,No,18,No,Weekday,Children's,54,RF-04,PLY-2526
+SCH44219,Harbourlight Life,Planit,Tuesday,09:30,10:00,Home Kitchen,Lifestyle,No,No,No,No,76,No,Weekday,Lifestyle,22,RF-03,PLY-6925
+SCH56826,Harbourlight Life,Planit,Tuesday,10:00,11:00,Dream Home Makeover,Lifestyle,No,No,No,Yes,132,No,Weekday,Lifestyle,24,RF-02,PLY-9289
+SCH66227,Harbourlight Life,Planit,Tuesday,11:00,12:00,Garden Rescue Squad,Lifestyle,No,No,No,No,71,No,Weekday,Lifestyle,26,RF-06,PLY-1812
+SCH31915,Harbourlight Life,Planit,Tuesday,12:00,13:00,Emergency Vets,Documentary,No,No,No,No,19,No,Weekday,Lifestyle,61,RF-09,PLY-2916
+SCH54047,Harbourlight Life,Planit,Tuesday,13:00,14:00,Puzzle Hour,Quiz and game show,No,No,No,No,14,No,Weekday,Documentary,35,RF-06,PLY-7254
+SCH42290,Harbourlight Life,Planit,Tuesday,14:00,15:00,Puzzle Hour,Quiz and game show,No,No,No,No,97,No,Weekday,Quiz and game show,35,RF-01,PLY-2526
+SCH14789,Harbourlight Life,Planit,Tuesday,15:00,15:30,Home Kitchen,Lifestyle,No,No,No,Yes,310,No,Weekday,Quiz and game show,39,RF-05,PLY-7455
+SCH69518,Harbourlight Life,Planit,Tuesday,15:30,16:00,Doodle Den,Children's,No,No,Yes,No,95,No,Weekday,Lifestyle,392,RF-05,PLY-8221
+SCH86405,Harbourlight Life,Planit,Tuesday,16:00,16:30,Wild Wonders,Children's,No,No,Yes,No,11,No,Weekday,Children's,367,RF-04,PLY-1499
+SCH19946,Harbourlight Life,Planit,Tuesday,16:30,17:00,Doodle Den,Children's,No,No,Yes,No,50,No,Weekday,Children's,383,RF-04,PLY-7898
+SCH82490,Harbourlight Life,Planit,Tuesday,17:00,17:30,The Hendersons,Animation,No,No,No,No,17,No,Weekday,Children's,240,RF-06,PLY-8343
+SCH86472,Harbourlight Life,Planit,Tuesday,17:30,18:00,Space Diner,Animation,No,No,No,No,27,No,Weekday,Animation,218,RF-09,PLY-7948
+SCH29422,Harbourlight Life,Planit,Tuesday,18:00,18:30,The Hendersons,Animation,No,No,No,No,15,No,Weekday,Animation,257,RF-02,PLY-3402
+SCH64371,Harbourlight Life,Planit,Tuesday,18:30,19:30,Emergency Vets,Documentary,No,No,No,No,23,No,Weekday,Animation,90,RF-02,PLY-7593
+SCH60127,Harbourlight Life,Planit,Tuesday,19:30,20:00,Home Kitchen,Lifestyle,No,No,No,Yes,311,No,Weekday,Documentary,41,RF-01,PLY-8352
+SCH97968,Harbourlight Life,Planit,Tuesday,20:00,21:00,Holiday Reps,Reality,No,No,No,Yes,326,No,Weekday,Lifestyle,115,RF-01,PLY-3357
+SCH29237,Harbourlight Life,Planit,Tuesday,21:00,22:00,Dream Home Makeover,Lifestyle,No,No,No,Yes,133,No,Weekday,Reality,45,RF-07,PLY-9879
+SCH34276,Harbourlight Life,Planit,Tuesday,22:00,23:00,Holiday Reps,Reality,No,No,No,Yes,327,No,Weekday,Lifestyle,131,RF-07,PLY-8133
+SCH90338,Harbourlight Life,Planit,Tuesday,23:00,24:00,Blind Date Club,Reality,No,No,No,Yes,321,No,Weekday,Reality,74,RF-05,PLY-6179
+SCH75082,Harbourlight Life,Planit,Tuesday,24:00,25:00,Wild Britain,Documentary,No,No,No,No,111,No,Weekday,Reality,80,RF-05,PLY-2907
+SCH29132,Harbourlight Life,Planit,Tuesday,25:00,26:00,Puzzle Hour,Quiz and game show,No,No,No,No,51,No,Weekday,Documentary,46,RF-02,PLY-7558
+SCH15639,Harbourlight Life,Planit,Tuesday,26:00,26:30,Night Kitchen,Lifestyle,No,No,No,No,14,No,Weekday,Quiz and game show,32,RF-09,PLY-3781
+SCH60323,Harbourlight Life,Planit,Tuesday,26:30,27:30,Escape to the Coast,Lifestyle,No,No,No,No,73,No,Weekday,Lifestyle,26,RF-07,PLY-5657
+SCH98030,Harbourlight Life,Planit,Tuesday,27:30,28:00,Night Kitchen,Lifestyle,No,No,No,No,7,No,Weekday,Lifestyle,30,RF-04,PLY-6925
+SCH73805,Harbourlight Life,Planit,Tuesday,28:00,29:00,Wild Britain,Documentary,No,No,No,No,30,No,Weekday,Lifestyle,55,RF-06,PLY-8343
+SCH39065,Harbourlight Life,Planit,Tuesday,29:00,29:30,Night Kitchen,Lifestyle,No,No,No,No,16,No,Weekday,Documentary,26,RF-01,PLY-9735
+SCH99648,Harbourlight Life,Planit,Tuesday,29:30,30:00,Home Kitchen,Lifestyle,No,No,No,No,55,No,Weekday,Lifestyle,21,RF-01,PLY-2526
+SCH57528,Harbourlight One,Airtime Planner,Wednesday,06:00,09:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Film,61,RF-01,PLY-7014
+SCH82631,Harbourlight One,Airtime Planner,Wednesday,09:00,10:30,Morning Harbour,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,26,RF-04,PLY-5238
+SCH38271,Harbourlight One,Airtime Planner,Wednesday,10:30,11:30,Harbour Kitchen,Lifestyle,No,No,No,No,140,No,Weekday,Talk and magazine,38,RF-02,PLY-3594
+SCH98307,Harbourlight One,Airtime Planner,Wednesday,11:30,12:00,Pass the Clue,Quiz and game show,No,No,No,No,193,No,Weekday,Lifestyle,37,RF-02,PLY-4180
+SCH18783,Harbourlight One,Airtime Planner,Wednesday,12:00,12:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,16,RF-08,PLY-4320
+SCH88993,Harbourlight One,Airtime Planner,Wednesday,12:30,13:30,The Lunchtime Table,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,18,RF-04,PLY-4326
+SCH74887,Harbourlight One,Airtime Planner,Wednesday,13:30,14:30,Loose Talk,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,22,RF-03,PLY-4889
+SCH16370,Harbourlight One,Airtime Planner,Wednesday,14:30,15:00,Harbour Kitchen,Lifestyle,No,No,No,No,119,No,Weekday,Talk and magazine,30,RF-09,PLY-5916
+SCH65021,Harbourlight One,Airtime Planner,Wednesday,15:00,16:00,Brainbox,Quiz and game show,No,No,No,No,102,No,Weekday,Lifestyle,82,RF-02,PLY-4339
+SCH32902,Harbourlight One,Airtime Planner,Wednesday,16:00,16:30,Pass the Clue,Quiz and game show,No,No,No,No,172,No,Weekday,Quiz and game show,61,RF-05,PLY-6900
+SCH64661,Harbourlight One,Airtime Planner,Wednesday,16:30,17:00,Flatmates,Comedy,No,No,No,No,162,No,Weekday,Quiz and game show,86,RF-07,PLY-4953
+SCH36911,Harbourlight One,Airtime Planner,Wednesday,17:00,18:00,Last Answer Standing,Quiz and game show,No,No,No,No,29,No,Weekday,Comedy,101,RF-06,PLY-3259
+SCH60415,Harbourlight One,Airtime Planner,Wednesday,18:00,18:30,Harbourlight News at Six,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,37,RF-08,PLY-4761
+SCH74384,Harbourlight One,Airtime Planner,Wednesday,18:30,19:00,Regional Tonight,News,Yes,No,No,Yes,,No,Weekday,News,42,RF-02,PLY-1318
+SCH47825,Harbourlight One,Airtime Planner,Wednesday,19:00,19:30,Millbrook,Soap,No,No,No,Yes,431,No,Weekday,News,74,RF-08,PLY-9969
+SCH69917,Harbourlight One,Airtime Planner,Wednesday,19:30,20:00,Harbour Street,Soap,No,No,No,Yes,377,No,Weekday,Soap,116,RF-09,PLY-1696
+SCH45786,Harbourlight One,Airtime Planner,Wednesday,20:00,21:00,Big Night In,Family entertainment,No,No,No,Yes,129,No,Weekday,Soap,120,RF-03,PLY-9208
+SCH84919,Harbourlight One,Airtime Planner,Wednesday,21:00,22:00,The Coastguard,Drama,No,No,No,Yes,36,No,Weekday,Family entertainment,44,RF-09,PLY-2804
+SCH78860,Harbourlight One,Airtime Planner,Wednesday,22:00,22:30,Harbourlight News at Ten,News,Yes,No,No,Yes,,No,Weekday,Drama,24,RF-02,PLY-6196
+SCH48043,Harbourlight One,Airtime Planner,Wednesday,22:30,23:00,Flatmates,Comedy,No,No,No,Yes,193,No,Weekday,News,84,RF-03,PLY-7898
+SCH77815,Harbourlight One,Airtime Planner,Wednesday,23:00,23:30,Flatmates,Comedy,No,No,No,No,31,No,Weekday,Comedy,62,RF-04,PLY-9735
+SCH96604,Harbourlight One,Airtime Planner,Wednesday,23:30,24:00,Flatmates,Comedy,No,No,No,No,146,No,Weekday,Comedy,62,RF-09,PLY-7096
+SCH17959,Harbourlight One,Airtime Planner,Wednesday,24:00,26:00,Night Film,Film,No,No,No,No,,No,Weekday,Comedy,38,RF-03,PLY-6428
+SCH13003,Harbourlight One,Airtime Planner,Wednesday,26:00,27:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,517,No,Weekday,Film,17,RF-02,PLY-3201
+SCH12190,Harbourlight One,Airtime Planner,Wednesday,27:00,28:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,518,No,Weekday,Quiz and game show,19,RF-07,PLY-6413
+SCH77188,Harbourlight One,Airtime Planner,Wednesday,28:00,28:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,18,RF-08,PLY-4279
+SCH53637,Harbourlight One,Airtime Planner,Wednesday,28:30,29:30,Night Quiz,Quiz and game show,Yes,No,No,Yes,519,No,Weekday,News,14,RF-09,PLY-3532
+SCH36020,Harbourlight One,Airtime Planner,Wednesday,29:30,30:00,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,21,RF-04,PLY-2759
+SCH72217,Harbourlight Sport,TXLine,Wednesday,06:00,09:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,64,RF-03,PLY-2424
+SCH21589,Harbourlight Sport,TXLine,Wednesday,09:00,12:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,38,RF-05,PLY-7277
+SCH50783,Harbourlight Sport,TXLine,Wednesday,12:00,13:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Sport,40,RF-03,PLY-4279
+SCH97658,Harbourlight Sport,TXLine,Wednesday,13:00,13:30,Extreme Sports,Sport,No,No,No,Yes,,No,Weekday,Sport,67,RF-05,PLY-5912
+SCH27323,Harbourlight Sport,TXLine,Wednesday,13:30,14:30,Cricket Highlights,Sport,No,No,No,No,,No,Weekday,Sport,27,RF-01,PLY-3033
+SCH14761,Harbourlight Sport,TXLine,Wednesday,14:30,16:30,Classic Matches,Sport,No,No,No,No,,No,Weekday,Sport,31,RF-09,PLY-2336
+SCH28274,Harbourlight Sport,TXLine,Wednesday,16:30,17:00,Extreme Sports,Sport,No,No,No,No,,No,Weekday,Sport,160,RF-03,PLY-3184
+SCH88030,Harbourlight Sport,TXLine,Wednesday,17:00,18:00,Transfer Talk,Football,Yes,No,No,Yes,,No,Weekday,Sport,147,RF-03,PLY-2760
+SCH43259,Harbourlight Sport,TXLine,Wednesday,18:00,19:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Football,110,RF-09,PLY-4271
+SCH46318,Harbourlight Sport,TXLine,Wednesday,19:00,19:30,Extreme Sports,Sport,No,No,No,Yes,,No,Weekday,Sport,138,RF-06,PLY-7014
+SCH59027,Harbourlight Sport,TXLine,Wednesday,19:30,22:00,Premier Football Live,Football,Yes,Yes,No,Yes,,No,Weekday,Sport,80,RF-09,PLY-2835
+SCH11242,Harbourlight Sport,TXLine,Wednesday,22:00,23:00,Game On,Sport,No,No,No,Yes,,No,Weekday,Football,138,RF-02,PLY-1327
+SCH17289,Harbourlight Sport,TXLine,Wednesday,23:00,24:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,47,RF-05,PLY-3550
+SCH23052,Harbourlight Sport,TXLine,Wednesday,24:00,25:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,56,RF-08,PLY-7948
+SCH57011,Harbourlight Sport,TXLine,Wednesday,25:00,26:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,50,RF-09,PLY-1448
+SCH51811,Harbourlight Sport,TXLine,Wednesday,26:00,29:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,41,RF-01,PLY-1472
+SCH41139,Harbourlight Sport,TXLine,Wednesday,29:00,30:00,Golf Round-Up,Sport,No,No,No,No,,No,Weekday,Sport,29,RF-02,PLY-7100
+SCH49213,Harbourlight Drama,SlotMaster,Wednesday,06:00,07:00,Ashworth Hall,Drama,No,No,No,Yes,39,No,Weekday,Comedy,38,RF-09,PLY-1472
+SCH78904,Harbourlight Drama,SlotMaster,Wednesday,07:00,07:30,Sitcom Classics,Comedy,No,No,No,No,22,No,Weekday,Drama,73,RF-09,PLY-6315
+SCH26812,Harbourlight Drama,SlotMaster,Wednesday,07:30,08:30,Ashworth Hall,Drama,No,No,No,No,18,No,Weekday,Comedy,40,RF-01,PLY-2750
+SCH51625,Harbourlight Drama,SlotMaster,Wednesday,08:30,09:00,Sitcom Classics,Comedy,No,No,No,No,16,No,Weekday,Drama,85,RF-07,PLY-8689
+SCH73551,Harbourlight Drama,SlotMaster,Wednesday,09:00,10:00,Coastal Mysteries,Crime drama,No,No,No,No,31,No,Weekday,Comedy,20,RF-06,PLY-2294
+SCH39444,Harbourlight Drama,SlotMaster,Wednesday,10:00,11:00,The Doctors' Wing,Drama,No,No,No,No,3,No,Weekday,Crime drama,26,RF-01,PLY-8177
+SCH51898,Harbourlight Drama,SlotMaster,Wednesday,11:00,12:00,The Case Files,Crime drama,No,No,No,No,29,No,Weekday,Drama,21,RF-08,PLY-2164
+SCH90044,Harbourlight Drama,SlotMaster,Wednesday,12:00,14:00,Classic Film,Film,No,No,No,No,,No,Weekday,Crime drama,19,RF-02,PLY-6789
+SCH60123,Harbourlight Drama,SlotMaster,Wednesday,14:00,15:00,The Case Files,Crime drama,No,No,No,No,62,No,Weekday,Film,24,RF-04,PLY-6568
+SCH52348,Harbourlight Drama,SlotMaster,Wednesday,15:00,16:00,Castle Hill,Drama,No,No,No,No,52,No,Weekday,Crime drama,58,RF-09,PLY-6413
+SCH99589,Harbourlight Drama,SlotMaster,Wednesday,16:00,17:00,The Case Files,Crime drama,No,No,No,No,53,No,Weekday,Drama,41,RF-09,PLY-3201
+SCH78980,Harbourlight Drama,SlotMaster,Wednesday,17:00,17:30,Sitcom Classics,Comedy,No,No,No,No,7,No,Weekday,Crime drama,79,RF-06,PLY-2471
+SCH37931,Harbourlight Drama,SlotMaster,Wednesday,17:30,18:00,Sixth Form,Drama,No,No,No,No,73,No,Weekday,Comedy,209,RF-02,PLY-7946
+SCH90358,Harbourlight Drama,SlotMaster,Wednesday,18:00,19:00,Blackwater Bay,Drama,No,No,No,No,4,No,Weekday,Drama,77,RF-06,PLY-2991
+SCH28381,Harbourlight Drama,SlotMaster,Wednesday,19:00,20:00,Westfield High,Drama,No,No,No,No,12,No,Weekday,Drama,140,RF-05,PLY-1327
+SCH64739,Harbourlight Drama,SlotMaster,Wednesday,20:00,21:00,The Doctors' Wing,Drama,No,No,No,No,42,No,Weekday,Drama,42,RF-02,PLY-2186
+SCH53878,Harbourlight Drama,SlotMaster,Wednesday,21:00,23:00,Drama Film Club,Film,No,No,No,No,,No,Weekday,Drama,54,RF-01,PLY-9735
+SCH41982,Harbourlight Drama,SlotMaster,Wednesday,23:00,24:00,Nightshift,Drama,No,No,No,No,7,No,Weekday,Film,48,RF-05,PLY-6033
+SCH99792,Harbourlight Drama,SlotMaster,Wednesday,24:00,25:00,Nightshift,Drama,No,No,No,No,21,No,Weekday,Drama,49,RF-02,PLY-3028
+SCH38721,Harbourlight Drama,SlotMaster,Wednesday,25:00,25:30,Sitcom Classics,Comedy,No,No,No,No,48,No,Weekday,Drama,33,RF-07,PLY-2150
+SCH29558,Harbourlight Drama,SlotMaster,Wednesday,25:30,28:00,Late Film,Film,No,No,No,No,,No,Weekday,Comedy,27,RF-06,PLY-3438
+SCH64797,Harbourlight Drama,SlotMaster,Wednesday,28:00,28:30,Sitcom Classics,Comedy,No,No,No,No,6,No,Weekday,Film,39,RF-09,PLY-7821
+SCH66722,Harbourlight Drama,SlotMaster,Wednesday,28:30,29:00,Drama Shorts,Drama,No,No,No,No,11,No,Weekday,Comedy,56,RF-05,PLY-1413
+SCH81510,Harbourlight Drama,SlotMaster,Wednesday,29:00,30:00,Coastal Mysteries,Crime drama,No,No,No,No,49,No,Weekday,Drama,22,RF-08,PLY-7996
+SCH78202,Harbourlight Life,Planit,Wednesday,06:00,06:30,Treetop Tales,Children's,No,No,Yes,No,1,No,Weekday,Lifestyle,376,RF-05,PLY-6434
+SCH56687,Harbourlight Life,Planit,Wednesday,06:30,07:00,Tiny Builders,Children's,No,No,Yes,No,38,No,Weekday,Children's,520,RF-04,PLY-5657
+SCH89555,Harbourlight Life,Planit,Wednesday,07:00,07:30,Doodle Den,Children's,No,No,Yes,Yes,156,No,Weekday,Children's,287,RF-02,PLY-8161
+SCH45075,Harbourlight Life,Planit,Wednesday,07:30,08:00,Treetop Tales,Children's,No,No,Yes,No,91,No,Weekday,Children's,431,RF-06,PLY-5775
+SCH27190,Harbourlight Life,Planit,Wednesday,08:00,08:30,Junior Newsdesk,Children's,Yes,No,Yes,Yes,,No,Weekday,Children's,140,RF-01,PLY-2907
+SCH46124,Harbourlight Life,Planit,Wednesday,08:30,09:00,Home Kitchen,Lifestyle,No,No,No,No,162,No,Weekday,Children's,63,RF-02,PLY-9818
+SCH22769,Harbourlight Life,Planit,Wednesday,09:00,10:00,Dream Home Makeover,Lifestyle,No,No,No,No,102,No,Weekday,Lifestyle,27,RF-07,PLY-2991
+SCH84420,Harbourlight Life,Planit,Wednesday,10:00,10:30,Home Kitchen,Lifestyle,No,No,No,No,189,No,Weekday,Lifestyle,25,RF-02,PLY-1327
+SCH59495,Harbourlight Life,Planit,Wednesday,10:30,11:30,Garden Rescue Squad,Lifestyle,No,No,No,No,23,No,Weekday,Lifestyle,26,RF-06,PLY-8352
+SCH49990,Harbourlight Life,Planit,Wednesday,11:30,12:00,Home Kitchen,Lifestyle,No,No,No,No,223,No,Weekday,Lifestyle,22,RF-09,PLY-1840
+SCH57024,Harbourlight Life,Planit,Wednesday,12:00,13:00,Escape to the Coast,Lifestyle,No,No,No,No,94,No,Weekday,Lifestyle,28,RF-06,PLY-2336
+SCH30515,Harbourlight Life,Planit,Wednesday,13:00,13:30,Home Kitchen,Lifestyle,No,No,No,Yes,312,No,Weekday,Lifestyle,27,RF-05,PLY-6413
+SCH30527,Harbourlight Life,Planit,Wednesday,13:30,14:30,Airport Live,Documentary,No,No,No,Yes,147,No,Weekday,Lifestyle,36,RF-08,PLY-2871
+SCH67950,Harbourlight Life,Planit,Wednesday,14:30,15:30,Escape to the Coast,Lifestyle,No,No,No,No,65,No,Weekday,Documentary,23,RF-09,PLY-2693
+SCH74848,Harbourlight Life,Planit,Wednesday,15:30,16:00,Robo Rangers,Children's,No,No,Yes,No,57,No,Weekday,Lifestyle,330,RF-01,PLY-9879
+SCH21410,Harbourlight Life,Planit,Wednesday,16:00,16:30,Wild Wonders,Children's,No,No,Yes,No,53,No,Weekday,Children's,258,RF-09,PLY-7946
+SCH56587,Harbourlight Life,Planit,Wednesday,16:30,17:00,Wild Wonders,Children's,No,No,Yes,No,54,No,Weekday,Children's,352,RF-09,PLY-6858
+SCH70320,Harbourlight Life,Planit,Wednesday,17:00,17:30,The Hendersons,Animation,No,No,No,No,6,No,Weekday,Children's,199,RF-06,PLY-5657
+SCH96762,Harbourlight Life,Planit,Wednesday,17:30,18:00,Space Diner,Animation,No,No,No,No,41,No,Weekday,Animation,186,RF-05,PLY-8481
+SCH59689,Harbourlight Life,Planit,Wednesday,18:00,18:30,Crazy Critters,Animation,No,No,No,No,48,No,Weekday,Animation,266,RF-03,PLY-7935
+SCH69776,Harbourlight Life,Planit,Wednesday,18:30,19:00,Style Swap,Lifestyle,No,No,No,No,133,No,Weekday,Animation,117,RF-09,PLY-6534
+SCH29844,Harbourlight Life,Planit,Wednesday,19:00,20:00,Emergency Vets,Documentary,No,No,No,Yes,165,No,Weekday,Lifestyle,126,RF-05,PLY-9640
+SCH13337,Harbourlight Life,Planit,Wednesday,20:00,21:00,Blind Date Club,Reality,No,No,No,Yes,322,No,Weekday,Documentary,137,RF-07,PLY-7043
+SCH55913,Harbourlight Life,Planit,Wednesday,21:00,22:00,Bake Off Stars,Lifestyle,No,No,No,No,18,No,Weekday,Reality,105,RF-03,PLY-7237
+SCH42784,Harbourlight Life,Planit,Wednesday,22:00,23:00,Inside the Hospital,Documentary,No,No,No,Yes,114,No,Weekday,Lifestyle,37,RF-06,PLY-2150
+SCH92960,Harbourlight Life,Planit,Wednesday,23:00,24:00,Airport Live,Documentary,No,No,No,No,73,No,Weekday,Documentary,39,RF-03,PLY-3644
+SCH24542,Harbourlight Life,Planit,Wednesday,24:00,24:30,Night Kitchen,Lifestyle,No,No,No,No,14,No,Weekday,Documentary,29,RF-02,PLY-5394
+SCH31132,Harbourlight Life,Planit,Wednesday,24:30,25:30,Puzzle Hour,Quiz and game show,No,No,No,No,52,No,Weekday,Lifestyle,33,RF-04,PLY-1397
+SCH49781,Harbourlight Life,Planit,Wednesday,25:30,26:00,Night Kitchen,Lifestyle,No,No,No,No,9,No,Weekday,Quiz and game show,26,RF-05,PLY-9827
+SCH84432,Harbourlight Life,Planit,Wednesday,26:00,26:30,Home Kitchen,Lifestyle,No,No,No,No,15,No,Weekday,Lifestyle,34,RF-09,PLY-8133
+SCH57937,Harbourlight Life,Planit,Wednesday,26:30,27:30,Puzzle Hour,Quiz and game show,No,No,No,No,104,No,Weekday,Lifestyle,44,RF-02,PLY-1540
+SCH67401,Harbourlight Life,Planit,Wednesday,27:30,28:00,Night Kitchen,Lifestyle,No,No,No,No,8,No,Weekday,Quiz and game show,22,RF-01,PLY-5360
+SCH69028,Harbourlight Life,Planit,Wednesday,28:00,28:30,Home Kitchen,Lifestyle,No,No,No,No,99,No,Weekday,Lifestyle,30,RF-09,PLY-4717
+SCH95447,Harbourlight Life,Planit,Wednesday,28:30,29:00,Night Kitchen,Lifestyle,No,No,No,No,8,No,Weekday,Lifestyle,30,RF-07,PLY-6017
+SCH17955,Harbourlight Life,Planit,Wednesday,29:00,30:00,Escape to the Coast,Lifestyle,No,No,No,No,122,No,Weekday,Lifestyle,25,RF-05,PLY-6484
+SCH74601,Harbourlight One,Airtime Planner,Thursday,06:00,09:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,54,RF-06,PLY-7837
+SCH47110,Harbourlight One,Airtime Planner,Thursday,09:00,10:30,Morning Harbour,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,25,RF-05,PLY-5936
+SCH29212,Harbourlight One,Airtime Planner,Thursday,10:30,11:30,This Home,Lifestyle,No,No,No,No,91,No,Weekday,Talk and magazine,25,RF-01,PLY-7914
+SCH81080,Harbourlight One,Airtime Planner,Thursday,11:30,12:00,Harbour Kitchen,Lifestyle,No,No,No,No,89,No,Weekday,Lifestyle,25,RF-07,PLY-3489
+SCH58847,Harbourlight One,Airtime Planner,Thursday,12:00,12:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Lifestyle,23,RF-06,PLY-6900
+SCH92921,Harbourlight One,Airtime Planner,Thursday,12:30,13:30,The Lunchtime Table,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,24,RF-06,PLY-9447
+SCH70505,Harbourlight One,Airtime Planner,Thursday,13:30,14:30,Loose Talk,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,26,RF-02,PLY-5097
+SCH15117,Harbourlight One,Airtime Planner,Thursday,14:30,15:00,Harbour Kitchen,Lifestyle,No,No,No,No,116,No,Weekday,Talk and magazine,34,RF-02,PLY-6925
+SCH93537,Harbourlight One,Airtime Planner,Thursday,15:00,16:00,Brainbox,Quiz and game show,No,No,No,Yes,137,No,Weekday,Lifestyle,73,RF-04,PLY-7096
+SCH19424,Harbourlight One,Airtime Planner,Thursday,16:00,16:30,Pass the Clue,Quiz and game show,No,No,No,Yes,206,No,Weekday,Quiz and game show,63,RF-02,PLY-6350
+SCH54947,Harbourlight One,Airtime Planner,Thursday,16:30,17:00,Pass the Clue,Quiz and game show,No,No,No,No,10,No,Weekday,Quiz and game show,64,RF-08,PLY-7966
+SCH65219,Harbourlight One,Airtime Planner,Thursday,17:00,18:00,Last Answer Standing,Quiz and game show,No,No,No,No,53,No,Weekday,Quiz and game show,87,RF-08,PLY-7395
+SCH52879,Harbourlight One,Airtime Planner,Thursday,18:00,18:30,Harbourlight News at Six,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,43,RF-06,PLY-7526
+SCH12661,Harbourlight One,Airtime Planner,Thursday,18:30,19:00,Regional Tonight,News,Yes,No,No,Yes,,No,Weekday,News,56,RF-03,PLY-5936
+SCH57189,Harbourlight One,Airtime Planner,Thursday,19:00,19:30,Millbrook,Soap,No,No,No,Yes,432,No,Weekday,News,70,RF-09,PLY-7379
+SCH70114,Harbourlight One,Airtime Planner,Thursday,19:30,20:00,Harbour Street,Soap,No,No,No,Yes,378,No,Weekday,Soap,73,RF-09,PLY-9969
+SCH68057,Harbourlight One,Airtime Planner,Thursday,20:00,21:00,Family Showdown,Family entertainment,No,No,No,Yes,167,No,Weekday,Soap,88,RF-03,PLY-4953
+SCH35683,Harbourlight One,Airtime Planner,Thursday,21:00,22:00,The Quayside Murders,Crime drama,No,No,No,Yes,29,No,Weekday,Family entertainment,44,RF-01,PLY-2294
+SCH47854,Harbourlight One,Airtime Planner,Thursday,22:00,22:30,Harbourlight News at Ten,News,Yes,No,No,Yes,,No,Weekday,Crime drama,19,RF-03,PLY-9619
+SCH77615,Harbourlight One,Airtime Planner,Thursday,22:30,23:30,Late Laughs,Comedy,No,No,No,No,54,No,Weekday,News,48,RF-06,PLY-7526
+SCH94037,Harbourlight One,Airtime Planner,Thursday,23:30,24:00,Flatmates,Comedy,No,No,No,No,115,No,Weekday,Comedy,51,RF-08,PLY-1318
+SCH60416,Harbourlight One,Airtime Planner,Thursday,24:00,25:00,Late Laughs,Comedy,No,No,No,No,37,No,Weekday,Comedy,29,RF-06,PLY-4369
+SCH87637,Harbourlight One,Airtime Planner,Thursday,25:00,26:00,The Late Review,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Comedy,27,RF-07,PLY-8374
+SCH71676,Harbourlight One,Airtime Planner,Thursday,26:00,28:00,Night Film,Film,No,No,No,No,,No,Weekday,Talk and magazine,37,RF-02,PLY-5111
+SCH72277,Harbourlight One,Airtime Planner,Thursday,28:00,29:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,520,No,Weekday,Film,17,RF-02,PLY-7455
+SCH60772,Harbourlight One,Airtime Planner,Thursday,29:00,30:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,521,No,Weekday,Quiz and game show,17,RF-07,PLY-8000
+SCH68200,Harbourlight Sport,TXLine,Thursday,06:00,09:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,64,RF-08,PLY-6898
+SCH79718,Harbourlight Sport,TXLine,Thursday,09:00,10:00,Golf Round-Up,Sport,No,No,No,No,,No,Weekday,Sport,23,RF-03,PLY-7402
+SCH62676,Harbourlight Sport,TXLine,Thursday,10:00,11:00,Motor Sport Weekly,Sport,No,No,No,No,,No,Weekday,Sport,39,RF-07,PLY-4438
+SCH61272,Harbourlight Sport,TXLine,Thursday,11:00,12:00,Golf Round-Up,Sport,No,No,No,Yes,,No,Weekday,Sport,19,RF-05,PLY-9445
+SCH22119,Harbourlight Sport,TXLine,Thursday,12:00,13:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Sport,38,RF-03,PLY-5615
+SCH86612,Harbourlight Sport,TXLine,Thursday,13:00,17:00,Tennis Live,Sport,Yes,Yes,No,Yes,,No,Weekday,Sport,33,RF-09,PLY-6954
+SCH45624,Harbourlight Sport,TXLine,Thursday,17:00,18:00,Transfer Talk,Football,Yes,No,No,Yes,,No,Weekday,Sport,106,RF-06,PLY-4180
+SCH94018,Harbourlight Sport,TXLine,Thursday,18:00,19:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Football,73,RF-04,PLY-2898
+SCH53250,Harbourlight Sport,TXLine,Thursday,19:00,19:30,Extreme Sports,Sport,No,No,No,Yes,,No,Weekday,Sport,133,RF-03,PLY-3962
+SCH18944,Harbourlight Sport,TXLine,Thursday,19:30,22:00,Live Rugby Union,Sport,Yes,Yes,No,Yes,,No,Weekday,Sport,59,RF-05,PLY-9445
+SCH98974,Harbourlight Sport,TXLine,Thursday,22:00,23:00,Rugby Highlights,Sport,No,No,No,Yes,,No,Weekday,Sport,57,RF-03,PLY-5486
+SCH60291,Harbourlight Sport,TXLine,Thursday,23:00,24:00,Fight Night Preview,Sport,No,No,No,No,,No,Weekday,Sport,64,RF-07,PLY-6674
+SCH30598,Harbourlight Sport,TXLine,Thursday,24:00,25:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,53,RF-06,PLY-8494
+SCH52457,Harbourlight Sport,TXLine,Thursday,25:00,26:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,75,RF-06,PLY-1395
+SCH24535,Harbourlight Sport,TXLine,Thursday,26:00,28:00,Classic Matches,Sport,No,No,No,No,,No,Weekday,Sport,53,RF-01,PLY-3532
+SCH14832,Harbourlight Sport,TXLine,Thursday,28:00,29:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,50,RF-06,PLY-3150
+SCH27839,Harbourlight Sport,TXLine,Thursday,29:00,30:00,Harbour Poker Club,Sport,No,No,No,Yes,,No,Weekday,Sport,45,RF-08,PLY-2804
+SCH36997,Harbourlight Drama,SlotMaster,Thursday,06:00,07:00,Castle Hill,Drama,No,No,No,No,23,No,Weekday,Crime drama,48,RF-09,PLY-8133
+SCH39610,Harbourlight Drama,SlotMaster,Thursday,07:00,08:00,Ashworth Hall,Drama,No,No,No,No,21,No,Weekday,Drama,30,RF-01,PLY-4451
+SCH28408,Harbourlight Drama,SlotMaster,Thursday,08:00,08:30,Sitcom Classics,Comedy,No,No,No,No,53,No,Weekday,Drama,92,RF-05,PLY-3882
+SCH93593,Harbourlight Drama,SlotMaster,Thursday,08:30,09:00,Sitcom Classics,Comedy,No,No,No,No,52,No,Weekday,Comedy,78,RF-02,PLY-5936
+SCH72839,Harbourlight Drama,SlotMaster,Thursday,09:00,10:00,The Case Files,Crime drama,No,No,No,No,47,No,Weekday,Comedy,25,RF-01,PLY-1812
+SCH86383,Harbourlight Drama,SlotMaster,Thursday,10:00,11:00,Castle Hill,Drama,No,No,No,No,25,No,Weekday,Crime drama,22,RF-03,PLY-7395
+SCH31186,Harbourlight Drama,SlotMaster,Thursday,11:00,12:00,The Doctors' Wing,Drama,No,No,No,No,12,No,Weekday,Drama,37,RF-02,PLY-7410
+SCH30419,Harbourlight Drama,SlotMaster,Thursday,12:00,14:00,Detective Rowe,Crime drama,No,No,No,No,3,No,Weekday,Drama,24,RF-05,PLY-2759
+SCH58939,Harbourlight Drama,SlotMaster,Thursday,14:00,15:00,The Doctors' Wing,Drama,No,No,No,No,13,No,Weekday,Crime drama,31,RF-06,PLY-4339
+SCH77712,Harbourlight Drama,SlotMaster,Thursday,15:00,16:00,The Case Files,Crime drama,No,No,No,No,47,No,Weekday,Drama,42,RF-04,PLY-1699
+SCH16948,Harbourlight Drama,SlotMaster,Thursday,16:00,17:00,Ashworth Hall,Drama,No,No,No,No,34,No,Weekday,Crime drama,38,RF-03,PLY-7029
+SCH74480,Harbourlight Drama,SlotMaster,Thursday,17:00,17:30,Sitcom Classics,Comedy,No,No,No,No,26,No,Weekday,Drama,55,RF-04,PLY-3489
+SCH36087,Harbourlight Drama,SlotMaster,Thursday,17:30,18:30,Blackwater Bay,Drama,No,No,No,No,13,No,Weekday,Comedy,63,RF-02,PLY-3358
+SCH46848,Harbourlight Drama,SlotMaster,Thursday,18:30,19:00,Sixth Form,Drama,No,No,No,Yes,125,No,Weekday,Drama,218,RF-01,PLY-7916
+SCH53279,Harbourlight Drama,SlotMaster,Thursday,19:00,20:00,Westfield High,Drama,No,No,No,Yes,95,No,Weekday,Drama,164,RF-07,PLY-5523
+SCH54053,Harbourlight Drama,SlotMaster,Thursday,20:00,21:00,Blackwater Bay,Drama,No,No,No,No,15,No,Weekday,Drama,63,RF-03,PLY-9447
+SCH54191,Harbourlight Drama,SlotMaster,Thursday,21:00,23:00,Drama Film Club,Film,No,No,No,No,,No,Weekday,Drama,49,RF-02,PLY-6636
+SCH16709,Harbourlight Drama,SlotMaster,Thursday,23:00,24:00,Nightshift,Drama,No,No,No,No,17,No,Weekday,Film,41,RF-04,PLY-6196
+SCH11836,Harbourlight Drama,SlotMaster,Thursday,24:00,25:00,Nightshift,Drama,No,No,No,No,16,No,Weekday,Drama,33,RF-07,PLY-6017
+SCH70677,Harbourlight Drama,SlotMaster,Thursday,25:00,27:00,Late Film,Film,No,No,No,No,,No,Weekday,Drama,33,RF-01,PLY-6413
+SCH52459,Harbourlight Drama,SlotMaster,Thursday,27:00,27:30,Drama Shorts,Drama,No,No,No,No,9,No,Weekday,Film,47,RF-09,PLY-8317
+SCH50788,Harbourlight Drama,SlotMaster,Thursday,27:30,28:30,Nightshift,Drama,No,No,No,No,20,No,Weekday,Drama,50,RF-08,PLY-4369
+SCH86879,Harbourlight Drama,SlotMaster,Thursday,28:30,29:00,Drama Shorts,Drama,No,No,No,No,24,No,Weekday,Drama,28,RF-05,PLY-1728
+SCH43714,Harbourlight Drama,SlotMaster,Thursday,29:00,30:00,Coastal Mysteries,Crime drama,No,No,No,No,46,No,Weekday,Drama,23,RF-07,PLY-3033
+SCH34167,Harbourlight Life,Planit,Thursday,06:00,06:30,Tiny Builders,Children's,No,No,Yes,No,94,No,Weekday,Lifestyle,432,RF-04,PLY-4722
+SCH87478,Harbourlight Life,Planit,Thursday,06:30,07:00,Treetop Tales,Children's,No,No,Yes,No,41,No,Weekday,Children's,370,RF-07,PLY-6202
+SCH43516,Harbourlight Life,Planit,Thursday,07:00,07:30,Tiny Builders,Children's,No,No,Yes,Yes,96,No,Weekday,Children's,366,RF-06,PLY-7916
+SCH90799,Harbourlight Life,Planit,Thursday,07:30,08:00,Story Boat,Children's,No,No,Yes,No,105,No,Weekday,Children's,402,RF-05,PLY-2186
+SCH69082,Harbourlight Life,Planit,Thursday,08:00,08:30,Junior Newsdesk,Children's,Yes,No,Yes,Yes,,No,Weekday,Children's,140,RF-04,PLY-2676
+SCH76898,Harbourlight Life,Planit,Thursday,08:30,09:00,Style Swap,Lifestyle,No,No,No,No,97,No,Weekday,Children's,131,RF-07,PLY-6434
+SCH21590,Harbourlight Life,Planit,Thursday,09:00,10:00,Dream Home Makeover,Lifestyle,No,No,No,Yes,134,No,Weekday,Lifestyle,30,RF-09,PLY-3644
+SCH12692,Harbourlight Life,Planit,Thursday,10:00,11:00,Garden Rescue Squad,Lifestyle,No,No,No,No,5,No,Weekday,Lifestyle,26,RF-03,PLY-5111
+SCH86270,Harbourlight Life,Planit,Thursday,11:00,11:30,Home Kitchen,Lifestyle,No,No,No,No,211,No,Weekday,Lifestyle,26,RF-01,PLY-6033
+SCH54343,Harbourlight Life,Planit,Thursday,11:30,12:00,Style Swap,Lifestyle,No,No,No,No,91,No,Weekday,Lifestyle,63,RF-01,PLY-9027
+SCH90998,Harbourlight Life,Planit,Thursday,12:00,13:00,Escape to the Coast,Lifestyle,No,No,No,No,73,No,Weekday,Lifestyle,26,RF-09,PLY-1026
+SCH84768,Harbourlight Life,Planit,Thursday,13:00,13:30,Home Kitchen,Lifestyle,No,No,No,No,114,No,Weekday,Lifestyle,28,RF-08,PLY-7827
+SCH39152,Harbourlight Life,Planit,Thursday,13:30,14:30,Airport Live,Documentary,No,No,No,No,107,No,Weekday,Lifestyle,46,RF-07,PLY-7277
+SCH58816,Harbourlight Life,Planit,Thursday,14:30,15:30,Escape to the Coast,Lifestyle,No,No,No,No,81,No,Weekday,Documentary,21,RF-03,PLY-2809
+SCH69006,Harbourlight Life,Planit,Thursday,15:30,16:00,Doodle Den,Children's,No,No,Yes,No,82,No,Weekday,Lifestyle,323,RF-04,PLY-4921
+SCH89126,Harbourlight Life,Planit,Thursday,16:00,16:30,Robo Rangers,Children's,No,No,Yes,Yes,110,No,Weekday,Children's,299,RF-08,PLY-3599
+SCH84519,Harbourlight Life,Planit,Thursday,16:30,17:00,Wild Wonders,Children's,No,No,Yes,No,16,No,Weekday,Children's,296,RF-09,PLY-1830
+SCH27594,Harbourlight Life,Planit,Thursday,17:00,17:30,Crazy Critters,Animation,No,No,No,No,54,No,Weekday,Children's,299,RF-02,PLY-2991
+SCH87278,Harbourlight Life,Planit,Thursday,17:30,18:00,Space Diner,Animation,No,No,No,No,11,No,Weekday,Animation,248,RF-03,PLY-9289
+SCH85437,Harbourlight Life,Planit,Thursday,18:00,18:30,The Hendersons,Animation,No,No,No,No,7,No,Weekday,Animation,222,RF-01,PLY-6428
+SCH13679,Harbourlight Life,Planit,Thursday,18:30,19:30,Wild Britain,Documentary,No,No,No,Yes,190,No,Weekday,Animation,107,RF-01,PLY-3524
+SCH90992,Harbourlight Life,Planit,Thursday,19:30,20:00,Home Kitchen,Lifestyle,No,No,No,Yes,313,No,Weekday,Documentary,42,RF-08,PLY-3897
+SCH60555,Harbourlight Life,Planit,Thursday,20:00,21:00,Bake Off Stars,Lifestyle,No,No,No,Yes,132,No,Weekday,Lifestyle,123,RF-04,PLY-7118
+SCH17056,Harbourlight Life,Planit,Thursday,21:00,22:00,Blind Date Club,Reality,No,No,No,Yes,323,No,Weekday,Lifestyle,103,RF-04,PLY-1830
+SCH62065,Harbourlight Life,Planit,Thursday,22:00,23:00,Blind Date Club,Reality,No,No,No,Yes,324,No,Weekday,Reality,113,RF-04,PLY-5262
+SCH67329,Harbourlight Life,Planit,Thursday,23:00,24:00,Holiday Reps,Reality,No,No,No,Yes,328,No,Weekday,Reality,104,RF-07,PLY-9850
+SCH62200,Harbourlight Life,Planit,Thursday,24:00,25:00,Wild Britain,Documentary,No,No,No,No,157,No,Weekday,Reality,59,RF-07,PLY-7946
+SCH60310,Harbourlight Life,Planit,Thursday,25:00,25:30,Night Kitchen,Lifestyle,No,No,No,No,10,No,Weekday,Documentary,25,RF-08,PLY-3052
+SCH24993,Harbourlight Life,Planit,Thursday,25:30,26:30,Puzzle Hour,Quiz and game show,No,No,No,No,115,No,Weekday,Lifestyle,32,RF-05,PLY-9969
+SCH24513,Harbourlight Life,Planit,Thursday,26:30,27:30,Wild Britain,Documentary,No,No,No,No,158,No,Weekday,Quiz and game show,56,RF-07,PLY-8688
+SCH62938,Harbourlight Life,Planit,Thursday,27:30,28:30,Escape to the Coast,Lifestyle,No,No,No,No,83,No,Weekday,Documentary,26,RF-03,PLY-2921
+SCH29024,Harbourlight Life,Planit,Thursday,28:30,29:30,Puzzle Hour,Quiz and game show,No,No,No,No,30,No,Weekday,Lifestyle,33,RF-01,PLY-9338
+SCH44261,Harbourlight Life,Planit,Thursday,29:30,30:00,Home Kitchen,Lifestyle,No,No,No,No,111,No,Weekday,Quiz and game show,36,RF-07,PLY-5198
+SCH53506,Harbourlight One,Airtime Planner,Friday,06:00,09:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Quiz and game show,59,RF-04,PLY-2760
+SCH90202,Harbourlight One,Airtime Planner,Friday,09:00,10:30,Morning Harbour,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,23,RF-07,PLY-5912
+SCH19215,Harbourlight One,Airtime Planner,Friday,10:30,11:30,This Home,Lifestyle,No,No,No,Yes,99,No,Weekday,Talk and magazine,26,RF-01,PLY-3248
+SCH55586,Harbourlight One,Airtime Planner,Friday,11:30,12:00,Pass the Clue,Quiz and game show,No,No,No,No,160,No,Weekday,Lifestyle,38,RF-08,PLY-5317
+SCH75334,Harbourlight One,Airtime Planner,Friday,12:00,12:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,20,RF-07,PLY-2135
+SCH72774,Harbourlight One,Airtime Planner,Friday,12:30,13:30,The Lunchtime Table,Talk and magazine,Yes,No,No,Yes,,No,Weekday,News,21,RF-02,PLY-6681
+SCH62507,Harbourlight One,Airtime Planner,Friday,13:30,14:30,Loose Talk,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Talk and magazine,26,RF-03,PLY-9927
+SCH30122,Harbourlight One,Airtime Planner,Friday,14:30,15:00,Harbour Kitchen,Lifestyle,No,No,No,No,140,No,Weekday,Talk and magazine,29,RF-03,PLY-9341
+SCH57895,Harbourlight One,Airtime Planner,Friday,15:00,16:00,Brainbox,Quiz and game show,No,No,No,No,9,No,Weekday,Lifestyle,74,RF-06,PLY-4821
+SCH53426,Harbourlight One,Airtime Planner,Friday,16:00,16:30,Pass the Clue,Quiz and game show,No,No,No,Yes,207,No,Weekday,Quiz and game show,80,RF-03,PLY-8794
+SCH35617,Harbourlight One,Airtime Planner,Friday,16:30,17:00,Pass the Clue,Quiz and game show,No,No,No,No,151,No,Weekday,Quiz and game show,71,RF-01,PLY-7101
+SCH84119,Harbourlight One,Airtime Planner,Friday,17:00,18:00,Last Answer Standing,Quiz and game show,No,No,No,No,8,No,Weekday,Quiz and game show,69,RF-08,PLY-6881
+SCH58120,Harbourlight One,Airtime Planner,Friday,18:00,18:30,Harbourlight News at Six,News,Yes,No,No,Yes,,No,Weekday,Quiz and game show,40,RF-02,PLY-7129
+SCH51892,Harbourlight One,Airtime Planner,Friday,18:30,19:00,Regional Tonight,News,Yes,No,No,Yes,,No,Weekday,News,33,RF-09,PLY-2141
+SCH53916,Harbourlight One,Airtime Planner,Friday,19:00,19:30,Millbrook,Soap,No,No,No,No,144,No,Weekday,News,81,RF-06,PLY-9782
+SCH98913,Harbourlight One,Airtime Planner,Friday,19:30,20:00,Harbour Street,Soap,No,No,No,Yes,379,No,Weekday,Soap,101,RF-08,PLY-2336
+SCH68233,Harbourlight One,Airtime Planner,Friday,20:00,21:00,Big Night In,Family entertainment,No,No,No,No,111,No,Weekday,Soap,136,RF-05,PLY-8000
+SCH10865,Harbourlight One,Airtime Planner,Friday,21:00,22:00,Northern Line,Drama,No,No,No,Yes,40,No,Weekday,Family entertainment,52,RF-09,PLY-9027
+SCH98150,Harbourlight One,Airtime Planner,Friday,22:00,22:30,Harbourlight News at Ten,News,Yes,No,No,Yes,,No,Weekday,Drama,23,RF-03,PLY-5130
+SCH91070,Harbourlight One,Airtime Planner,Friday,22:30,23:00,Flatmates,Comedy,No,No,No,Yes,194,No,Weekday,News,63,RF-05,PLY-9845
+SCH94714,Harbourlight One,Airtime Planner,Friday,23:00,24:00,The Late Review,Talk and magazine,Yes,No,No,Yes,,No,Weekday,Comedy,16,RF-02,PLY-7007
+SCH99054,Harbourlight One,Airtime Planner,Friday,24:00,26:00,Night Film,Film,No,No,No,No,,No,Weekday,Talk and magazine,37,RF-09,PLY-1699
+SCH76569,Harbourlight One,Airtime Planner,Friday,26:00,27:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,522,No,Weekday,Film,22,RF-08,PLY-9735
+SCH59031,Harbourlight One,Airtime Planner,Friday,27:00,29:30,Night Film,Film,No,No,No,No,,No,Weekday,Quiz and game show,33,RF-01,PLY-4271
+SCH24540,Harbourlight One,Airtime Planner,Friday,29:30,30:00,Harbourlight News,News,Yes,No,No,Yes,,No,Weekday,Film,29,RF-01,PLY-7768
+SCH82337,Harbourlight Sport,TXLine,Friday,06:00,09:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,68,RF-04,PLY-3324
+SCH70198,Harbourlight Sport,TXLine,Friday,09:00,10:00,Motor Sport Weekly,Sport,No,No,No,No,,No,Weekday,Sport,45,RF-01,PLY-3489
+SCH69199,Harbourlight Sport,TXLine,Friday,10:00,11:00,Golf Round-Up,Sport,No,No,No,Yes,,No,Weekday,Sport,22,RF-07,PLY-2491
+SCH95354,Harbourlight Sport,TXLine,Friday,11:00,12:00,Motor Sport Weekly,Sport,No,No,No,No,,No,Weekday,Sport,52,RF-04,PLY-4142
+SCH84681,Harbourlight Sport,TXLine,Friday,12:00,13:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Sport,34,RF-03,PLY-6681
+SCH62558,Harbourlight Sport,TXLine,Friday,13:00,15:00,Classic Matches,Sport,No,No,No,No,,No,Weekday,Sport,34,RF-01,PLY-4203
+SCH50351,Harbourlight Sport,TXLine,Friday,15:00,16:00,Cricket Highlights,Sport,No,No,No,No,,No,Weekday,Sport,35,RF-03,PLY-3968
+SCH35458,Harbourlight Sport,TXLine,Friday,16:00,17:00,Extreme Sports,Sport,No,No,No,No,,No,Weekday,Sport,139,RF-03,PLY-1374
+SCH18850,Harbourlight Sport,TXLine,Friday,17:00,18:00,Transfer Talk,Football,Yes,No,No,Yes,,No,Weekday,Sport,148,RF-08,PLY-3898
+SCH99515,Harbourlight Sport,TXLine,Friday,18:00,19:00,The Sports Desk,Sport,Yes,No,No,Yes,,No,Weekday,Football,93,RF-06,PLY-2294
+SCH91126,Harbourlight Sport,TXLine,Friday,19:00,19:30,Extreme Sports,Sport,No,No,No,Yes,,No,Weekday,Sport,114,RF-08,PLY-3376
+SCH30321,Harbourlight Sport,TXLine,Friday,19:30,22:00,Championship Football Live,Football,Yes,Yes,No,Yes,,No,Weekday,Sport,80,RF-08,PLY-9827
+SCH23809,Harbourlight Sport,TXLine,Friday,22:00,23:00,Rugby Highlights,Sport,No,No,No,Yes,,No,Weekday,Football,51,RF-03,PLY-5523
+SCH26326,Harbourlight Sport,TXLine,Friday,23:00,24:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,57,RF-09,PLY-3126
+SCH63768,Harbourlight Sport,TXLine,Friday,24:00,25:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,50,RF-09,PLY-1209
+SCH25829,Harbourlight Sport,TXLine,Friday,25:00,26:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,52,RF-07,PLY-2104
+SCH86360,Harbourlight Sport,TXLine,Friday,26:00,29:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekday,Sport,44,RF-02,PLY-7172
+SCH71101,Harbourlight Sport,TXLine,Friday,29:00,30:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekday,Sport,49,RF-07,PLY-7369
+SCH79948,Harbourlight Drama,SlotMaster,Friday,06:00,07:00,Ashworth Hall,Drama,No,No,No,No,24,No,Weekday,Crime drama,42,RF-05,PLY-5238
+SCH72671,Harbourlight Drama,SlotMaster,Friday,07:00,08:00,Castle Hill,Drama,No,No,No,No,50,No,Weekday,Drama,45,RF-03,PLY-7550
+SCH71884,Harbourlight Drama,SlotMaster,Friday,08:00,08:30,Sitcom Classics,Comedy,No,No,No,No,30,No,Weekday,Drama,69,RF-02,PLY-2637
+SCH37587,Harbourlight Drama,SlotMaster,Friday,08:30,09:00,Sitcom Classics,Comedy,No,No,No,No,18,No,Weekday,Comedy,75,RF-09,PLY-2804
+SCH18288,Harbourlight Drama,SlotMaster,Friday,09:00,10:00,The Case Files,Crime drama,No,No,No,No,50,No,Weekday,Comedy,26,RF-03,PLY-4307
+SCH70853,Harbourlight Drama,SlotMaster,Friday,10:00,11:00,Castle Hill,Drama,No,No,No,No,46,No,Weekday,Crime drama,19,RF-06,PLY-5735
+SCH55236,Harbourlight Drama,SlotMaster,Friday,11:00,12:00,The Case Files,Crime drama,No,No,No,No,6,No,Weekday,Drama,22,RF-04,PLY-2760
+SCH45167,Harbourlight Drama,SlotMaster,Friday,12:00,14:00,Detective Rowe,Crime drama,No,No,No,No,4,No,Weekday,Crime drama,26,RF-07,PLY-7043
+SCH35275,Harbourlight Drama,SlotMaster,Friday,14:00,15:00,The Case Files,Crime drama,No,No,No,No,51,No,Weekday,Crime drama,19,RF-05,PLY-7129
+SCH86526,Harbourlight Drama,SlotMaster,Friday,15:00,16:00,The Doctors' Wing,Drama,No,No,No,No,70,No,Weekday,Crime drama,51,RF-05,PLY-1413
+SCH18892,Harbourlight Drama,SlotMaster,Friday,16:00,17:00,Castle Hill,Drama,No,No,No,No,18,No,Weekday,Drama,45,RF-07,PLY-5950
+SCH90865,Harbourlight Drama,SlotMaster,Friday,17:00,17:30,Sitcom Classics,Comedy,No,No,No,No,18,No,Weekday,Drama,80,RF-04,PLY-4426
+SCH49732,Harbourlight Drama,SlotMaster,Friday,17:30,18:00,Sixth Form,Drama,No,No,No,No,52,No,Weekday,Comedy,232,RF-05,PLY-1741
+SCH92809,Harbourlight Drama,SlotMaster,Friday,18:00,19:00,Westfield High,Drama,No,No,No,No,1,No,Weekday,Drama,171,RF-07,PLY-7014
+SCH66637,Harbourlight Drama,SlotMaster,Friday,19:00,20:00,The Doctors' Wing,Drama,No,No,No,No,39,No,Weekday,Drama,62,RF-01,PLY-7935
+SCH32040,Harbourlight Drama,SlotMaster,Friday,20:00,21:00,Coastal Mysteries,Crime drama,No,No,No,No,28,No,Weekday,Drama,41,RF-01,PLY-7550
+SCH53474,Harbourlight Drama,SlotMaster,Friday,21:00,23:00,Murder at Marsh End,Crime drama,No,No,No,No,1,No,Weekday,Crime drama,42,RF-03,PLY-6489
+SCH70757,Harbourlight Drama,SlotMaster,Friday,23:00,24:00,The Case Files,Crime drama,No,No,No,No,25,No,Weekday,Crime drama,30,RF-03,PLY-2257
+SCH52334,Harbourlight Drama,SlotMaster,Friday,24:00,25:00,Nightshift,Drama,No,No,No,No,15,No,Weekday,Crime drama,41,RF-05,PLY-8547
+SCH12272,Harbourlight Drama,SlotMaster,Friday,25:00,26:00,Nightshift,Drama,No,No,No,No,29,No,Weekday,Drama,39,RF-03,PLY-1883
+SCH21990,Harbourlight Drama,SlotMaster,Friday,26:00,26:30,Drama Shorts,Drama,No,No,No,No,3,No,Weekday,Drama,41,RF-03,PLY-3392
+SCH37665,Harbourlight Drama,SlotMaster,Friday,26:30,27:30,Coastal Mysteries,Crime drama,No,No,No,No,23,No,Weekday,Drama,28,RF-07,PLY-2750
+SCH20544,Harbourlight Drama,SlotMaster,Friday,27:30,30:00,Late Film,Film,No,No,No,No,,No,Weekday,Crime drama,40,RF-07,PLY-7455
+SCH81997,Harbourlight Life,Planit,Friday,06:00,06:30,Tiny Builders,Children's,No,No,Yes,No,14,No,Weekday,Lifestyle,366,RF-08,PLY-1209
+SCH37092,Harbourlight Life,Planit,Friday,06:30,07:00,Story Boat,Children's,No,No,Yes,No,30,No,Weekday,Children's,340,RF-06,PLY-8454
+SCH20804,Harbourlight Life,Planit,Friday,07:00,07:30,Doodle Den,Children's,No,No,Yes,No,36,No,Weekday,Children's,333,RF-01,PLY-8494
+SCH61236,Harbourlight Life,Planit,Friday,07:30,08:00,Story Boat,Children's,No,No,Yes,No,1,No,Weekday,Children's,339,RF-06,PLY-9272
+SCH75661,Harbourlight Life,Planit,Friday,08:00,08:30,Junior Newsdesk,Children's,Yes,No,Yes,Yes,,No,Weekday,Children's,140,RF-07,PLY-4485
+SCH85591,Harbourlight Life,Planit,Friday,08:30,09:30,Inside the Hospital,Documentary,No,No,No,No,20,No,Weekday,Children's,80,RF-07,PLY-3052
+SCH44456,Harbourlight Life,Planit,Friday,09:30,10:30,Garden Rescue Squad,Lifestyle,No,No,No,No,83,No,Weekday,Documentary,30,RF-01,PLY-8689
+SCH79736,Harbourlight Life,Planit,Friday,10:30,11:30,Dream Home Makeover,Lifestyle,No,No,No,Yes,135,No,Weekday,Lifestyle,24,RF-06,PLY-4485
+SCH10177,Harbourlight Life,Planit,Friday,11:30,12:00,Home Kitchen,Lifestyle,No,No,No,Yes,314,No,Weekday,Lifestyle,29,RF-02,PLY-7550
+SCH89574,Harbourlight Life,Planit,Friday,12:00,13:00,Puzzle Hour,Quiz and game show,No,No,No,Yes,129,No,Weekday,Lifestyle,30,RF-09,PLY-4485
+SCH74837,Harbourlight Life,Planit,Friday,13:00,14:00,Escape to the Coast,Lifestyle,No,No,No,No,136,No,Weekday,Quiz and game show,21,RF-04,PLY-7962
+SCH36024,Harbourlight Life,Planit,Friday,14:00,15:00,Puzzle Hour,Quiz and game show,No,No,No,Yes,130,No,Weekday,Lifestyle,34,RF-03,PLY-6925
+SCH69223,Harbourlight Life,Planit,Friday,15:00,15:30,Home Kitchen,Lifestyle,No,No,No,No,18,No,Weekday,Quiz and game show,39,RF-05,PLY-2760
+SCH35055,Harbourlight Life,Planit,Friday,15:30,16:00,Wild Wonders,Children's,No,No,Yes,No,67,No,Weekday,Lifestyle,320,RF-08,PLY-3376
+SCH72646,Harbourlight Life,Planit,Friday,16:00,16:30,Doodle Den,Children's,No,No,Yes,No,101,No,Weekday,Children's,425,RF-04,PLY-9969
+SCH33713,Harbourlight Life,Planit,Friday,16:30,17:00,Robo Rangers,Children's,No,No,Yes,No,49,No,Weekday,Children's,249,RF-06,PLY-7948
+SCH75596,Harbourlight Life,Planit,Friday,17:00,17:30,Crazy Critters,Animation,No,No,No,Yes,80,No,Weekday,Children's,262,RF-06,PLY-7405
+SCH98992,Harbourlight Life,Planit,Friday,17:30,18:00,The Hendersons,Animation,No,No,No,No,9,No,Weekday,Animation,203,RF-02,PLY-5198
+SCH97736,Harbourlight Life,Planit,Friday,18:00,18:30,Space Diner,Animation,No,No,No,No,19,No,Weekday,Animation,166,RF-04,PLY-7014
+SCH74207,Harbourlight Life,Planit,Friday,18:30,19:00,Home Kitchen,Lifestyle,No,No,No,Yes,315,No,Weekday,Animation,44,RF-08,PLY-7129
+SCH43630,Harbourlight Life,Planit,Friday,19:00,20:00,Emergency Vets,Documentary,No,No,No,No,38,No,Weekday,Lifestyle,125,RF-09,PLY-7558
+SCH11064,Harbourlight Life,Planit,Friday,20:00,21:00,Teen Fashion Wars,Reality,No,No,No,Yes,172,No,Weekday,Documentary,221,RF-02,PLY-4091
+SCH17823,Harbourlight Life,Planit,Friday,21:00,22:00,Blind Date Club,Reality,No,No,No,Yes,325,No,Weekday,Reality,82,RF-08,PLY-2835
+SCH64141,Harbourlight Life,Planit,Friday,22:00,23:00,Airport Live,Documentary,No,No,No,Yes,148,No,Weekday,Reality,66,RF-01,PLY-6773
+SCH69160,Harbourlight Life,Planit,Friday,23:00,24:00,Holiday Reps,Reality,No,No,No,Yes,329,No,Weekday,Documentary,85,RF-06,PLY-2526
+SCH68701,Harbourlight Life,Planit,Friday,24:00,25:00,Escape to the Coast,Lifestyle,No,No,No,No,26,No,Weekday,Reality,29,RF-06,PLY-2907
+SCH83296,Harbourlight Life,Planit,Friday,25:00,25:30,Night Kitchen,Lifestyle,No,No,No,No,1,No,Weekday,Lifestyle,26,RF-04,PLY-7118
+SCH84494,Harbourlight Life,Planit,Friday,25:30,26:30,Wild Britain,Documentary,No,No,No,No,38,No,Weekday,Lifestyle,47,RF-03,PLY-7096
+SCH97324,Harbourlight Life,Planit,Friday,26:30,27:30,Escape to the Coast,Lifestyle,No,No,No,No,60,No,Weekday,Documentary,24,RF-06,PLY-9341
+SCH20547,Harbourlight Life,Planit,Friday,27:30,28:00,Home Kitchen,Lifestyle,No,No,No,No,210,No,Weekday,Lifestyle,31,RF-06,PLY-9289
+SCH41566,Harbourlight Life,Planit,Friday,28:00,29:00,Wild Britain,Documentary,No,No,No,No,3,No,Weekday,Lifestyle,65,RF-06,PLY-2779
+SCH30932,Harbourlight Life,Planit,Friday,29:00,30:00,Escape to the Coast,Lifestyle,No,No,No,No,40,No,Weekday,Documentary,23,RF-02,PLY-2164
+SCH35715,Harbourlight One,Airtime Planner,Saturday,06:00,07:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekend,News,70,RF-04,PLY-1820
+SCH84105,Harbourlight One,Airtime Planner,Saturday,07:00,07:30,The Moonbeams,Children's,No,No,Yes,No,5,No,Weekend,Talk and magazine,387,RF-09,PLY-4180
+SCH76037,Harbourlight One,Airtime Planner,Saturday,07:30,08:00,Captain Crumb,Children's,No,No,Yes,No,13,No,Weekend,Children's,335,RF-09,PLY-8005
+SCH22511,Harbourlight One,Airtime Planner,Saturday,08:00,08:30,The Moonbeams,Children's,No,No,Yes,No,3,No,Weekend,Children's,431,RF-04,PLY-7946
+SCH64218,Harbourlight One,Airtime Planner,Saturday,08:30,09:00,Captain Crumb,Children's,No,No,Yes,No,19,No,Weekend,Children's,370,RF-05,PLY-1830
+SCH81975,Harbourlight One,Airtime Planner,Saturday,09:00,09:30,The Moonbeams,Children's,No,No,Yes,Yes,40,No,Weekend,Children's,396,RF-04,PLY-5666
+SCH21533,Harbourlight One,Airtime Planner,Saturday,09:30,10:30,Harbour Kitchen,Lifestyle,No,No,No,No,89,No,Weekend,Children's,59,RF-04,PLY-6906
+SCH45285,Harbourlight One,Airtime Planner,Saturday,10:30,11:30,This Home,Lifestyle,No,No,No,Yes,100,No,Weekend,Lifestyle,55,RF-01,PLY-9289
+SCH76987,Harbourlight One,Airtime Planner,Saturday,11:30,12:00,Pass the Clue,Quiz and game show,No,No,No,Yes,208,No,Weekend,Lifestyle,64,RF-08,PLY-4451
+SCH26838,Harbourlight One,Airtime Planner,Saturday,12:00,13:00,The Big Climb,Quiz and game show,No,No,No,No,57,No,Weekend,Quiz and game show,86,RF-06,PLY-7014
+SCH91090,Harbourlight One,Airtime Planner,Saturday,13:00,13:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekend,Quiz and game show,44,RF-08,PLY-2760
+SCH47841,Harbourlight One,Airtime Planner,Saturday,13:30,16:00,Afternoon Film,Film,No,No,No,No,,No,Weekend,News,47,RF-06,PLY-3766
+SCH95014,Harbourlight One,Airtime Planner,Saturday,16:00,17:00,The Big Climb,Quiz and game show,No,No,No,Yes,72,No,Weekend,Film,71,RF-06,PLY-6951
+SCH69077,Harbourlight One,Airtime Planner,Saturday,17:00,17:30,The Hendersons,Animation,No,No,No,No,3,No,Weekend,Quiz and game show,203,RF-05,PLY-4326
+SCH94799,Harbourlight One,Airtime Planner,Saturday,17:30,18:30,Family Showdown,Family entertainment,No,No,No,No,100,No,Weekend,Animation,112,RF-06,PLY-5262
+SCH45481,Harbourlight One,Airtime Planner,Saturday,18:30,19:00,Harbourlight News,News,Yes,No,No,Yes,,No,Weekend,Family entertainment,33,RF-07,PLY-9190
+SCH32298,Harbourlight One,Airtime Planner,Saturday,19:00,20:30,Starmakers,Family entertainment,Yes,No,No,Yes,58,No,Weekend,News,121,RF-08,PLY-2549
+SCH82855,Harbourlight One,Airtime Planner,Saturday,20:30,21:30,Big Night In,Family entertainment,No,No,No,Yes,130,No,Weekend,Family entertainment,114,RF-01,PLY-4722
+SCH43814,Harbourlight One,Airtime Planner,Saturday,21:30,22:00,Flatmates,Comedy,No,No,No,No,187,No,Weekend,Family entertainment,103,RF-06,PLY-6681
+SCH58674,Harbourlight One,Airtime Planner,Saturday,22:00,23:00,Harbour Crime,Crime drama,No,No,No,Yes,54,No,Weekend,Comedy,62,RF-04,PLY-3133
+SCH16156,Harbourlight One,Airtime Planner,Saturday,23:00,23:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekend,Crime drama,27,RF-09,PLY-2759
+SCH24182,Harbourlight One,Airtime Planner,Saturday,23:30,25:30,Saturday Film,Film,No,No,No,No,,No,Weekend,News,59,RF-03,PLY-2695
+SCH98571,Harbourlight One,Airtime Planner,Saturday,25:30,26:30,Late Laughs,Comedy,No,No,No,No,12,No,Weekend,Film,43,RF-01,PLY-4562
+SCH76241,Harbourlight One,Airtime Planner,Saturday,26:30,27:30,The Late Review,Talk and magazine,Yes,No,No,Yes,,No,Weekend,Comedy,30,RF-04,PLY-4307
+SCH64978,Harbourlight One,Airtime Planner,Saturday,27:30,30:00,Night Film,Film,No,No,No,No,,No,Weekend,Talk and magazine,40,RF-05,PLY-2759
+SCH11701,Harbourlight Sport,TXLine,Saturday,06:00,09:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekend,Sport,93,RF-09,PLY-8423
+SCH22305,Harbourlight Sport,TXLine,Saturday,09:00,11:00,Weekend Warm-Up,Sport,Yes,No,No,Yes,,No,Weekend,Sport,101,RF-09,PLY-5486
+SCH53146,Harbourlight Sport,TXLine,Saturday,11:00,12:00,Goals Galore,Football,No,No,No,Yes,,No,Weekend,Sport,157,RF-03,PLY-5491
+SCH80275,Harbourlight Sport,TXLine,Saturday,12:00,14:30,Live Rugby Union,Sport,Yes,Yes,No,Yes,,No,Weekend,Football,65,RF-08,PLY-5363
+SCH56518,Harbourlight Sport,TXLine,Saturday,14:30,17:00,Championship Football Live,Football,Yes,Yes,No,Yes,,No,Weekend,Sport,97,RF-04,PLY-9667
+SCH50050,Harbourlight Sport,TXLine,Saturday,17:00,19:00,Saturday Scoreline,Sport,Yes,No,No,Yes,,No,Weekend,Football,96,RF-05,PLY-3718
+SCH61430,Harbourlight Sport,TXLine,Saturday,19:00,21:15,Premier Football Live,Football,Yes,Yes,No,Yes,,No,Weekend,Sport,104,RF-04,PLY-7172
+SCH23746,Harbourlight Sport,TXLine,Saturday,21:15,22:00,Football Tonight,Football,No,No,No,Yes,,No,Weekend,Football,116,RF-05,PLY-1218
+SCH51995,Harbourlight Sport,TXLine,Saturday,22:00,23:00,Fight Night Preview,Sport,No,No,No,Yes,,No,Weekend,Football,72,RF-05,PLY-2330
+SCH83398,Harbourlight Sport,TXLine,Saturday,23:00,24:40,Boxing Rewind,Sport,No,No,No,No,,No,Weekend,Sport,64,RF-03,PLY-4307
+SCH84524,Harbourlight Sport,TXLine,Saturday,24:40,26:10,Harbour Poker Club,Sport,No,No,No,No,,No,Weekend,Sport,58,RF-09,PLY-6773
+SCH30836,Harbourlight Sport,TXLine,Saturday,26:10,28:10,Classic Matches,Sport,No,No,No,No,,No,Weekend,Sport,44,RF-02,PLY-2135
+SCH21810,Harbourlight Sport,TXLine,Saturday,28:10,30:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekend,Sport,49,RF-01,PLY-1540
+SCH94015,Harbourlight Drama,SlotMaster,Saturday,06:00,07:00,Ashworth Hall,Drama,No,No,No,No,35,No,Weekend,Film,41,RF-01,PLY-3064
+SCH48946,Harbourlight Drama,SlotMaster,Saturday,07:00,08:00,Castle Hill,Drama,No,No,No,No,58,No,Weekend,Drama,52,RF-05,PLY-9355
+SCH62229,Harbourlight Drama,SlotMaster,Saturday,08:00,08:30,Sitcom Classics,Comedy,No,No,No,No,42,No,Weekend,Drama,86,RF-08,PLY-8454
+SCH18356,Harbourlight Drama,SlotMaster,Saturday,08:30,09:00,Sitcom Classics,Comedy,No,No,No,No,6,No,Weekend,Comedy,88,RF-05,PLY-2692
+SCH13111,Harbourlight Drama,SlotMaster,Saturday,09:00,10:00,The Doctors' Wing,Drama,No,No,No,No,67,No,Weekend,Comedy,62,RF-01,PLY-2234
+SCH99556,Harbourlight Drama,SlotMaster,Saturday,10:00,11:00,Castle Hill,Drama,No,No,No,No,55,No,Weekend,Drama,64,RF-09,PLY-6358
+SCH87402,Harbourlight Drama,SlotMaster,Saturday,11:00,12:00,Castle Hill,Drama,No,No,No,No,48,No,Weekend,Drama,50,RF-05,PLY-1696
+SCH15627,Harbourlight Drama,SlotMaster,Saturday,12:00,14:00,Classic Film,Film,No,No,No,No,,No,Weekend,Drama,37,RF-04,PLY-5735
+SCH86925,Harbourlight Drama,SlotMaster,Saturday,14:00,16:00,Drama Film Club,Film,No,No,No,No,,No,Weekend,Film,65,RF-08,PLY-7122
+SCH93479,Harbourlight Drama,SlotMaster,Saturday,16:00,17:00,Westfield High,Drama,No,No,No,No,48,No,Weekend,Film,197,RF-09,PLY-5798
+SCH24350,Harbourlight Drama,SlotMaster,Saturday,17:00,17:30,Sixth Form,Drama,No,No,No,No,97,No,Weekend,Drama,166,RF-04,PLY-6920
+SCH58963,Harbourlight Drama,SlotMaster,Saturday,17:30,18:00,Sixth Form,Drama,No,No,No,No,70,No,Weekend,Drama,178,RF-01,PLY-9447
+SCH37248,Harbourlight Drama,SlotMaster,Saturday,18:00,19:00,Coastal Mysteries,Crime drama,No,No,No,Yes,50,No,Weekend,Drama,41,RF-03,PLY-8378
+SCH49876,Harbourlight Drama,SlotMaster,Saturday,19:00,20:00,Westfield High,Drama,No,No,No,Yes,96,No,Weekend,Crime drama,147,RF-05,PLY-2257
+SCH71993,Harbourlight Drama,SlotMaster,Saturday,20:00,21:00,The Doctors' Wing,Drama,No,No,No,No,52,No,Weekend,Drama,60,RF-04,PLY-3945
+SCH76224,Harbourlight Drama,SlotMaster,Saturday,21:00,23:00,Drama Film Club,Film,No,No,No,Yes,,No,Weekend,Drama,51,RF-08,PLY-2595
+SCH57684,Harbourlight Drama,SlotMaster,Saturday,23:00,24:00,Nightshift,Drama,No,No,No,No,8,No,Weekend,Film,39,RF-08,PLY-8374
+SCH48116,Harbourlight Drama,SlotMaster,Saturday,24:00,25:00,Nightshift,Drama,No,No,No,No,12,No,Weekend,Drama,44,RF-01,PLY-7254
+SCH19134,Harbourlight Drama,SlotMaster,Saturday,25:00,27:00,Late Film,Film,No,No,No,No,,No,Weekend,Drama,33,RF-09,PLY-4320
+SCH12210,Harbourlight Drama,SlotMaster,Saturday,27:00,29:30,Late Film,Film,No,No,No,No,,No,Weekend,Film,29,RF-03,PLY-9498
+SCH75181,Harbourlight Drama,SlotMaster,Saturday,29:30,30:00,Sitcom Classics,Comedy,No,No,No,No,8,No,Weekend,Film,48,RF-01,PLY-6731
+SCH73234,Harbourlight Life,Planit,Saturday,06:00,06:30,Story Boat,Children's,No,No,Yes,No,45,No,Weekend,Lifestyle,328,RF-06,PLY-2809
+SCH18896,Harbourlight Life,Planit,Saturday,06:30,07:00,Doodle Den,Children's,No,No,Yes,No,3,No,Weekend,Children's,322,RF-02,PLY-6332
+SCH55503,Harbourlight Life,Planit,Saturday,07:00,07:30,Doodle Den,Children's,No,No,Yes,No,34,No,Weekend,Children's,309,RF-05,PLY-5798
+SCH11162,Harbourlight Life,Planit,Saturday,07:30,08:00,Treetop Tales,Children's,No,No,Yes,No,25,No,Weekend,Children's,354,RF-09,PLY-3376
+SCH43947,Harbourlight Life,Planit,Saturday,08:00,08:30,Story Boat,Children's,No,No,Yes,No,42,No,Weekend,Children's,518,RF-02,PLY-1499
+SCH95302,Harbourlight Life,Planit,Saturday,08:30,09:00,Doodle Den,Children's,No,No,Yes,No,31,No,Weekend,Children's,394,RF-09,PLY-6434
+SCH34779,Harbourlight Life,Planit,Saturday,09:00,09:30,Tiny Builders,Children's,No,No,Yes,No,37,No,Weekend,Children's,329,RF-05,PLY-4921
+SCH95488,Harbourlight Life,Planit,Saturday,09:30,10:00,Doodle Den,Children's,No,No,Yes,No,92,No,Weekend,Children's,277,RF-09,PLY-4180
+SCH67395,Harbourlight Life,Planit,Saturday,10:00,11:00,Dream Home Makeover,Lifestyle,No,No,No,No,19,No,Weekend,Children's,63,RF-05,PLY-7395
+SCH66026,Harbourlight Life,Planit,Saturday,11:00,12:00,Garden Rescue Squad,Lifestyle,No,No,No,No,36,No,Weekend,Lifestyle,59,RF-08,PLY-1395
+SCH49773,Harbourlight Life,Planit,Saturday,12:00,12:30,Style Swap,Lifestyle,No,No,No,No,70,No,Weekend,Lifestyle,124,RF-09,PLY-7550
+SCH27018,Harbourlight Life,Planit,Saturday,12:30,13:00,Home Kitchen,Lifestyle,No,No,No,No,95,No,Weekend,Lifestyle,46,RF-03,PLY-1031
+SCH71107,Harbourlight Life,Planit,Saturday,13:00,14:00,Wild Britain,Documentary,No,No,No,No,120,No,Weekend,Lifestyle,120,RF-02,PLY-7455
+SCH87526,Harbourlight Life,Planit,Saturday,14:00,15:00,Bake Off Stars,Lifestyle,No,No,No,No,89,No,Weekend,Documentary,157,RF-08,PLY-2595
+SCH77943,Harbourlight Life,Planit,Saturday,15:00,16:00,Bake Off Stars,Lifestyle,No,No,No,No,57,No,Weekend,Lifestyle,121,RF-01,PLY-2135
+SCH74791,Harbourlight Life,Planit,Saturday,16:00,17:00,Escape to the Coast,Lifestyle,No,No,No,No,83,No,Weekend,Lifestyle,51,RF-01,PLY-8005
+SCH54122,Harbourlight Life,Planit,Saturday,17:00,17:30,Space Diner,Animation,No,No,No,No,2,No,Weekend,Lifestyle,168,RF-01,PLY-3246
+SCH50055,Harbourlight Life,Planit,Saturday,17:30,18:00,The Hendersons,Animation,No,No,No,No,9,No,Weekend,Animation,176,RF-04,PLY-5912
+SCH74413,Harbourlight Life,Planit,Saturday,18:00,19:00,Emergency Vets,Documentary,No,No,No,No,7,No,Weekend,Animation,114,RF-03,PLY-9304
+SCH83646,Harbourlight Life,Planit,Saturday,19:00,20:00,Emergency Vets,Documentary,No,No,No,Yes,166,No,Weekend,Documentary,111,RF-05,PLY-7410
+SCH78540,Harbourlight Life,Planit,Saturday,20:00,21:00,Blind Date Club,Reality,No,No,No,Yes,326,No,Weekend,Documentary,136,RF-06,PLY-1091
+SCH31890,Harbourlight Life,Planit,Saturday,21:00,22:00,Holiday Reps,Reality,No,No,No,Yes,330,No,Weekend,Reality,99,RF-09,PLY-5615
+SCH47638,Harbourlight Life,Planit,Saturday,22:00,23:00,Holiday Reps,Reality,No,No,No,Yes,331,No,Weekend,Reality,95,RF-02,PLY-2759
+SCH47146,Harbourlight Life,Planit,Saturday,23:00,23:30,Night Kitchen,Lifestyle,No,No,No,No,7,No,Weekend,Reality,28,RF-02,PLY-3052
+SCH74805,Harbourlight Life,Planit,Saturday,23:30,24:30,Wild Britain,Documentary,No,No,No,Yes,191,No,Weekend,Lifestyle,50,RF-02,PLY-4271
+SCH79005,Harbourlight Life,Planit,Saturday,24:30,25:30,Airport Live,Documentary,No,No,No,Yes,149,No,Weekend,Documentary,59,RF-07,PLY-2424
+SCH34341,Harbourlight Life,Planit,Saturday,25:30,26:30,Wild Britain,Documentary,No,No,No,No,133,No,Weekend,Documentary,53,RF-05,PLY-2951
+SCH51168,Harbourlight Life,Planit,Saturday,26:30,27:00,Night Kitchen,Lifestyle,No,No,No,No,2,No,Weekend,Documentary,29,RF-01,PLY-9027
+SCH31952,Harbourlight Life,Planit,Saturday,27:00,28:00,Wild Britain,Documentary,No,No,No,No,151,No,Weekend,Lifestyle,52,RF-06,PLY-5155
+SCH14126,Harbourlight Life,Planit,Saturday,28:00,28:30,Night Kitchen,Lifestyle,No,No,No,No,16,No,Weekend,Documentary,32,RF-02,PLY-8809
+SCH16822,Harbourlight Life,Planit,Saturday,28:30,29:30,Escape to the Coast,Lifestyle,No,No,No,No,117,No,Weekend,Lifestyle,25,RF-07,PLY-7029
+SCH49311,Harbourlight Life,Planit,Saturday,29:30,30:00,Night Kitchen,Lifestyle,No,No,No,No,16,No,Weekend,Lifestyle,28,RF-02,PLY-3898
+SCH26623,Harbourlight One,Airtime Planner,Sunday,06:00,07:00,Harbourlight Breakfast,Talk and magazine,Yes,No,No,Yes,,No,Weekend,Film,61,RF-09,PLY-5198
+SCH19579,Harbourlight One,Airtime Planner,Sunday,07:00,07:30,Captain Crumb,Children's,No,No,Yes,No,24,No,Weekend,Talk and magazine,520,RF-06,PLY-6925
+SCH14669,Harbourlight One,Airtime Planner,Sunday,07:30,08:00,Robo Rangers,Children's,No,No,Yes,No,6,No,Weekend,Children's,256,RF-06,PLY-2186
+SCH44839,Harbourlight One,Airtime Planner,Sunday,08:00,08:30,Captain Crumb,Children's,No,No,Yes,No,47,No,Weekend,Children's,391,RF-03,PLY-6898
+SCH27836,Harbourlight One,Airtime Planner,Sunday,08:30,09:00,The Moonbeams,Children's,No,No,Yes,No,28,No,Weekend,Children's,432,RF-09,PLY-3460
+SCH91740,Harbourlight One,Airtime Planner,Sunday,09:00,09:30,Captain Crumb,Children's,No,No,Yes,No,41,No,Weekend,Children's,336,RF-04,PLY-9735
+SCH95310,Harbourlight One,Airtime Planner,Sunday,09:30,10:30,The Week Ahead,Current affairs,Yes,No,No,Yes,,No,Weekend,Children's,47,RF-09,PLY-8000
+SCH83529,Harbourlight One,Airtime Planner,Sunday,10:30,11:00,Harbour Kitchen,Lifestyle,No,No,No,No,100,No,Weekend,Current affairs,55,RF-03,PLY-4761
+SCH34697,Harbourlight One,Airtime Planner,Sunday,11:00,12:00,Family Showdown,Family entertainment,No,No,No,No,74,No,Weekend,Lifestyle,131,RF-04,PLY-1183
+SCH11307,Harbourlight One,Airtime Planner,Sunday,12:00,13:00,This Home,Lifestyle,No,No,No,No,56,No,Weekend,Family entertainment,61,RF-08,PLY-6413
+SCH28677,Harbourlight One,Airtime Planner,Sunday,13:00,13:30,Harbourlight News,News,Yes,No,No,Yes,,No,Weekend,Lifestyle,30,RF-09,PLY-9304
+SCH62469,Harbourlight One,Airtime Planner,Sunday,13:30,16:00,Sunday Blockbuster,Film,No,No,No,No,,No,Weekend,News,135,RF-07,PLY-7237
+SCH97685,Harbourlight One,Airtime Planner,Sunday,16:00,17:00,The Big Climb,Quiz and game show,No,No,No,Yes,73,No,Weekend,Film,96,RF-08,PLY-9845
+SCH80447,Harbourlight One,Airtime Planner,Sunday,17:00,17:30,The Hendersons,Animation,No,No,No,No,19,No,Weekend,Quiz and game show,188,RF-06,PLY-8130
+SCH88463,Harbourlight One,Airtime Planner,Sunday,17:30,18:30,Family Showdown,Family entertainment,No,No,No,No,19,No,Weekend,Animation,109,RF-07,PLY-3420
+SCH35447,Harbourlight One,Airtime Planner,Sunday,18:30,19:00,Harbourlight News,News,Yes,No,No,Yes,,No,Weekend,Family entertainment,40,RF-05,PLY-6534
+SCH45460,Harbourlight One,Airtime Planner,Sunday,19:00,21:00,Dance Off Live,Reality,Yes,No,No,Yes,26,No,Weekend,News,176,RF-09,PLY-1183
+SCH40243,Harbourlight One,Airtime Planner,Sunday,21:00,22:00,Blackwater Bay,Drama,No,No,No,Yes,44,No,Weekend,Reality,69,RF-04,PLY-9027
+SCH77652,Harbourlight One,Airtime Planner,Sunday,22:00,22:30,Harbourlight News at Ten,News,Yes,No,No,Yes,,No,Weekend,Drama,19,RF-06,PLY-9771
+SCH29970,Harbourlight One,Airtime Planner,Sunday,22:30,23:30,The Late Review,Talk and magazine,Yes,No,No,Yes,,No,Weekend,News,31,RF-06,PLY-6920
+SCH94347,Harbourlight One,Airtime Planner,Sunday,23:30,24:00,Flatmates,Comedy,No,No,No,No,36,No,Weekend,Talk and magazine,62,RF-08,PLY-2676
+SCH56737,Harbourlight One,Airtime Planner,Sunday,24:00,26:00,Night Film,Film,No,No,No,No,,No,Weekend,Comedy,28,RF-08,PLY-5775
+SCH95502,Harbourlight One,Airtime Planner,Sunday,26:00,27:00,Night Quiz,Quiz and game show,Yes,No,No,Yes,523,No,Weekend,Film,20,RF-05,PLY-6415
+SCH58935,Harbourlight One,Airtime Planner,Sunday,27:00,29:30,Night Film,Film,No,No,No,No,,No,Weekend,Quiz and game show,36,RF-09,PLY-9987
+SCH43254,Harbourlight One,Airtime Planner,Sunday,29:30,30:00,Harbourlight News,News,Yes,No,No,Yes,,No,Weekend,Film,23,RF-05,PLY-3945
+SCH74201,Harbourlight Sport,TXLine,Sunday,06:00,08:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekend,Sport,100,RF-07,PLY-6858
+SCH26620,Harbourlight Sport,TXLine,Sunday,08:00,09:00,Goals Galore,Football,No,No,No,Yes,,No,Weekend,Sport,139,RF-08,PLY-1413
+SCH74649,Harbourlight Sport,TXLine,Sunday,09:00,10:00,Motor Sport Weekly,Sport,No,No,No,No,,No,Weekend,Football,92,RF-08,PLY-6925
+SCH65340,Harbourlight Sport,TXLine,Sunday,10:00,13:00,Cricket Live,Sport,Yes,Yes,No,Yes,,No,Weekend,Sport,63,RF-05,PLY-4838
+SCH84580,Harbourlight Sport,TXLine,Sunday,13:00,16:00,Cricket Live,Sport,Yes,Yes,No,Yes,,No,Weekend,Sport,66,RF-01,PLY-5912
+SCH51344,Harbourlight Sport,TXLine,Sunday,16:00,18:30,Premier Football Live,Football,Yes,Yes,No,Yes,,No,Weekend,Sport,107,RF-05,PLY-9987
+SCH14224,Harbourlight Sport,TXLine,Sunday,18:30,19:30,Football Tonight,Football,No,No,No,Yes,,No,Weekend,Football,134,RF-08,PLY-2570
+SCH83301,Harbourlight Sport,TXLine,Sunday,19:30,22:00,Live Darts,Sport,Yes,Yes,No,Yes,,No,Weekend,Football,74,RF-05,PLY-6033
+SCH88310,Harbourlight Sport,TXLine,Sunday,22:00,23:00,Rugby Highlights,Sport,No,No,No,No,,No,Weekend,Sport,55,RF-02,PLY-3538
+SCH88177,Harbourlight Sport,TXLine,Sunday,23:00,24:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekend,Sport,61,RF-07,PLY-7007
+SCH79815,Harbourlight Sport,TXLine,Sunday,24:00,25:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekend,Sport,75,RF-07,PLY-5638
+SCH21530,Harbourlight Sport,TXLine,Sunday,25:00,26:00,Harbour Poker Club,Sport,No,No,No,No,,No,Weekend,Sport,59,RF-05,PLY-9445
+SCH24147,Harbourlight Sport,TXLine,Sunday,26:00,28:00,Classic Matches,Sport,No,No,No,No,,No,Weekend,Sport,52,RF-01,PLY-5735
+SCH83633,Harbourlight Sport,TXLine,Sunday,28:00,29:00,Sport Today,Sport,Yes,No,No,Yes,,No,Weekend,Sport,52,RF-02,PLY-6919
+SCH48684,Harbourlight Sport,TXLine,Sunday,29:00,30:00,Golf Round-Up,Sport,No,No,No,No,,No,Weekend,Sport,28,RF-08,PLY-7395
+SCH31388,Harbourlight Drama,SlotMaster,Sunday,06:00,07:00,Ashworth Hall,Drama,No,No,No,No,5,No,Weekend,Comedy,40,RF-05,PLY-3781
+SCH89149,Harbourlight Drama,SlotMaster,Sunday,07:00,07:30,Sitcom Classics,Comedy,No,No,No,No,4,No,Weekend,Drama,85,RF-06,PLY-1841
+SCH21121,Harbourlight Drama,SlotMaster,Sunday,07:30,08:30,Ashworth Hall,Drama,No,No,No,No,9,No,Weekend,Comedy,36,RF-06,PLY-4925
+SCH61359,Harbourlight Drama,SlotMaster,Sunday,08:30,09:00,Sitcom Classics,Comedy,No,No,No,No,20,No,Weekend,Drama,67,RF-01,PLY-8772
+SCH23314,Harbourlight Drama,SlotMaster,Sunday,09:00,11:30,Harbour Street Omnibus,Soap,No,No,No,No,2,No,Weekend,Comedy,85,RF-07,PLY-3766
+SCH54081,Harbourlight Drama,SlotMaster,Sunday,11:30,12:00,Sitcom Classics,Comedy,No,No,No,No,14,No,Weekend,Soap,80,RF-01,PLY-8454
+SCH67421,Harbourlight Drama,SlotMaster,Sunday,12:00,14:00,Detective Rowe,Crime drama,No,No,No,No,16,No,Weekend,Comedy,54,RF-05,PLY-3376
+SCH52888,Harbourlight Drama,SlotMaster,Sunday,14:00,15:00,Ashworth Hall,Drama,No,No,No,No,21,No,Weekend,Crime drama,38,RF-07,PLY-6059
+SCH25108,Harbourlight Drama,SlotMaster,Sunday,15:00,16:00,Castle Hill,Drama,No,No,No,Yes,60,No,Weekend,Drama,57,RF-01,PLY-7277
+SCH76986,Harbourlight Drama,SlotMaster,Sunday,16:00,17:00,Castle Hill,Drama,No,No,No,No,5,No,Weekend,Drama,53,RF-01,PLY-6637
+SCH89923,Harbourlight Drama,SlotMaster,Sunday,17:00,17:30,Sixth Form,Drama,No,No,No,No,75,No,Weekend,Drama,231,RF-06,PLY-7176
+SCH16286,Harbourlight Drama,SlotMaster,Sunday,17:30,18:30,Blackwater Bay,Drama,No,No,No,No,14,No,Weekend,Drama,75,RF-08,PLY-2164
+SCH73194,Harbourlight Drama,SlotMaster,Sunday,18:30,19:00,Sixth Form,Drama,No,No,No,No,47,No,Weekend,Drama,182,RF-06,PLY-9341
+SCH11594,Harbourlight Drama,SlotMaster,Sunday,19:00,20:00,The Case Files,Crime drama,No,No,No,No,30,No,Weekend,Drama,52,RF-04,PLY-7793
+SCH81432,Harbourlight Drama,SlotMaster,Sunday,20:00,21:00,Coastal Mysteries,Crime drama,No,No,No,No,20,No,Weekend,Crime drama,48,RF-02,PLY-5984
+SCH78609,Harbourlight Drama,SlotMaster,Sunday,21:00,23:00,Drama Film Club,Film,No,No,No,Yes,,No,Weekend,Crime drama,49,RF-02,PLY-1807
+SCH93319,Harbourlight Drama,SlotMaster,Sunday,23:00,24:00,Nightshift,Drama,No,No,No,No,18,No,Weekend,Film,33,RF-04,PLY-5984
+SCH63908,Harbourlight Drama,SlotMaster,Sunday,24:00,25:00,Nightshift,Drama,No,No,No,No,12,No,Weekend,Drama,31,RF-02,PLY-6919
+SCH28696,Harbourlight Drama,SlotMaster,Sunday,25:00,26:00,Nightshift,Drama,No,No,No,No,5,No,Weekend,Drama,44,RF-01,PLY-7118
+SCH37428,Harbourlight Drama,SlotMaster,Sunday,26:00,26:30,Drama Shorts,Drama,No,No,No,No,12,No,Weekend,Drama,46,RF-03,PLY-1817
+SCH67229,Harbourlight Drama,SlotMaster,Sunday,26:30,27:30,Nightshift,Drama,No,No,No,No,4,No,Weekend,Drama,50,RF-01,PLY-4369
+SCH69014,Harbourlight Drama,SlotMaster,Sunday,27:30,28:30,Nightshift,Drama,No,No,No,No,26,No,Weekend,Drama,47,RF-09,PLY-3376
+SCH57966,Harbourlight Drama,SlotMaster,Sunday,28:30,29:30,Nightshift,Drama,No,No,No,No,29,No,Weekend,Drama,37,RF-08,PLY-3248
+SCH54804,Harbourlight Drama,SlotMaster,Sunday,29:30,30:00,Drama Shorts,Drama,No,No,No,No,20,No,Weekend,Drama,51,RF-09,PLY-7991
+SCH29420,Harbourlight Life,Planit,Sunday,06:00,06:30,Tiny Builders,Children's,No,No,Yes,No,41,No,Weekend,Lifestyle,341,RF-08,PLY-7118
+SCH91560,Harbourlight Life,Planit,Sunday,06:30,07:00,Story Boat,Children's,No,No,Yes,No,37,No,Weekend,Children's,473,RF-07,PLY-9788
+SCH83868,Harbourlight Life,Planit,Sunday,07:00,07:30,Treetop Tales,Children's,No,No,Yes,No,51,No,Weekend,Children's,311,RF-07,PLY-9641
+SCH54368,Harbourlight Life,Planit,Sunday,07:30,08:00,Tiny Builders,Children's,No,No,Yes,No,30,No,Weekend,Children's,460,RF-01,PLY-6122
+SCH83922,Harbourlight Life,Planit,Sunday,08:00,08:30,Robo Rangers,Children's,No,No,Yes,No,48,No,Weekend,Children's,373,RF-05,PLY-4889
+SCH56627,Harbourlight Life,Planit,Sunday,08:30,09:00,Treetop Tales,Children's,No,No,Yes,No,77,No,Weekend,Children's,454,RF-06,PLY-4730
+SCH54278,Harbourlight Life,Planit,Sunday,09:00,09:30,Story Boat,Children's,No,No,Yes,No,1,No,Weekend,Children's,404,RF-05,PLY-8722
+SCH22809,Harbourlight Life,Planit,Sunday,09:30,10:00,Robo Rangers,Children's,No,No,Yes,No,67,No,Weekend,Children's,313,RF-08,PLY-2809
+SCH58709,Harbourlight Life,Planit,Sunday,10:00,10:30,Home Kitchen,Lifestyle,No,No,No,No,9,No,Weekend,Children's,64,RF-01,PLY-9969
+SCH76850,Harbourlight Life,Planit,Sunday,10:30,11:00,Home Kitchen,Lifestyle,No,No,No,No,181,No,Weekend,Lifestyle,54,RF-08,PLY-9969
+SCH69645,Harbourlight Life,Planit,Sunday,11:00,12:00,Garden Rescue Squad,Lifestyle,No,No,No,No,73,No,Weekend,Lifestyle,53,RF-05,PLY-7821
+SCH43913,Harbourlight Life,Planit,Sunday,12:00,13:00,Dream Home Makeover,Lifestyle,No,No,No,No,12,No,Weekend,Lifestyle,55,RF-03,PLY-6920
+SCH28632,Harbourlight Life,Planit,Sunday,13:00,14:00,Airport Live,Documentary,No,No,No,No,7,No,Weekend,Lifestyle,63,RF-07,PLY-3766
+SCH74338,Harbourlight Life,Planit,Sunday,14:00,15:00,Wild Britain,Documentary,No,No,No,No,55,No,Weekend,Documentary,92,RF-02,PLY-1883
+SCH93108,Harbourlight Life,Planit,Sunday,15:00,16:00,Airport Live,Documentary,No,No,No,No,59,No,Weekend,Documentary,102,RF-05,PLY-7237
+SCH14798,Harbourlight Life,Planit,Sunday,16:00,17:00,Airport Live,Documentary,No,No,No,No,83,No,Weekend,Documentary,55,RF-04,PLY-2760
+SCH19367,Harbourlight Life,Planit,Sunday,17:00,17:30,The Hendersons,Animation,No,No,No,No,13,No,Weekend,Documentary,174,RF-02,PLY-7821
+SCH57210,Harbourlight Life,Planit,Sunday,17:30,18:00,The Hendersons,Animation,No,No,No,No,12,No,Weekend,Animation,208,RF-05,PLY-9864
+SCH99018,Harbourlight Life,Planit,Sunday,18:00,19:00,Bake Off Stars,Lifestyle,No,No,No,Yes,133,No,Weekend,Animation,126,RF-03,PLY-7157
+SCH48584,Harbourlight Life,Planit,Sunday,19:00,20:00,Wild Britain,Documentary,No,No,No,No,114,No,Weekend,Lifestyle,81,RF-09,PLY-7827
+SCH93554,Harbourlight Life,Planit,Sunday,20:00,21:00,Inside the Hospital,Documentary,No,No,No,Yes,115,No,Weekend,Documentary,64,RF-04,PLY-5292
+SCH34564,Harbourlight Life,Planit,Sunday,21:00,22:00,Holiday Reps,Reality,No,No,No,Yes,332,No,Weekend,Documentary,83,RF-06,PLY-8456
+SCH10221,Harbourlight Life,Planit,Sunday,22:00,23:00,Blind Date Club,Reality,No,No,No,Yes,327,No,Weekend,Reality,111,RF-04,PLY-4307
+SCH40514,Harbourlight Life,Planit,Sunday,23:00,24:00,Escape to the Coast,Lifestyle,No,No,No,No,61,No,Weekend,Reality,31,RF-07,PLY-8378
+SCH36898,Harbourlight Life,Planit,Sunday,24:00,25:00,Wild Britain,Documentary,No,No,No,No,137,No,Weekend,Lifestyle,58,RF-07,PLY-5486
+SCH64887,Harbourlight Life,Planit,Sunday,25:00,26:00,Wild Britain,Documentary,No,No,No,No,81,No,Weekend,Documentary,58,RF-01,PLY-5615
+SCH19062,Harbourlight Life,Planit,Sunday,26:00,27:00,Escape to the Coast,Lifestyle,No,No,No,No,45,No,Weekend,Documentary,24,RF-02,PLY-3589
+SCH25096,Harbourlight Life,Planit,Sunday,27:00,28:00,Puzzle Hour,Quiz and game show,No,No,No,Yes,131,No,Weekend,Lifestyle,44,RF-07,PLY-4808
+SCH98244,Harbourlight Life,Planit,Sunday,28:00,29:00,Wild Britain,Documentary,No,No,No,No,183,No,Weekend,Quiz and game show,65,RF-03,PLY-7395
+SCH41818,Harbourlight Life,Planit,Sunday,29:00,30:00,Puzzle Hour,Quiz and game show,No,No,No,Yes,132,No,Weekend,Documentary,43,RF-09,PLY-3489
